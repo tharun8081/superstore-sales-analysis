@@ -1,0 +1,15 @@
+📊 BUSINESS INSIGHTS
+
+1. The West region generates the highest sales, indicating strong market performance.
+2. Technology category contributes the highest revenue among all categories.
+3. Some products are generating negative profit, indicating loss-making items.
+4. High discounts are negatively impacting profit margins.
+5. Sales show an increasing trend over time, indicating business growth.
+
+💡 RECOMMENDATIONS
+
+1. Focus marketing and inventory in high-performing regions like the West.
+2. Promote high-revenue categories such as Technology.
+3. Identify and reduce loss-making products.
+4. Optimize discount strategy to protect profit.
+5. Continue strategies that drive sales growth.

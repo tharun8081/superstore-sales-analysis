@@ -1,0 +1,1001 @@
+order_id,"Customer Name",Segment,Region,Category,Sub-Category,Sales,Quantity,Profit,Discount,profit_margin,order_date_clean,ship_date_clean,order_year,order_month
+CA-2016-152156,"Claire Gute",Consumer,South,Furniture,Bookcases,261.96,2,41.9136,0,16.000000000000004,2016-08-11,2016-11-11,2016,8
+CA-2016-152156,"Claire Gute",Consumer,South,Furniture,Chairs,731.94,3,219.582,0,30,2016-08-11,2016-11-11,2016,8
+CA-2016-138688,"Darrin Van Huff",Corporate,West,"Office Supplies",Labels,14.62,2,6.8714,0,47,2016-12-06,2016-06-16,2016,12
+US-2015-108966,"Sean O'Donnell",Consumer,South,Furniture,Tables,957.5775,5,-383.031,0.45,-40,2015-11-10,2015-10-18,2015,11
+US-2015-108966,"Sean O'Donnell",Consumer,South,"Office Supplies",Storage,22.368,2,2.5164,0.2,11.25,2015-11-10,2015-10-18,2015,11
+CA-2014-115812,"Brosina Hoffman",Consumer,West,Furniture,Furnishings,48.86,7,14.1694,0,28.999999999999996,2014-09-06,2014-06-14,2014,9
+CA-2014-115812,"Brosina Hoffman",Consumer,West,"Office Supplies",Art,7.28,4,1.9656,0,27,2014-09-06,2014-06-14,2014,9
+CA-2014-115812,"Brosina Hoffman",Consumer,West,Technology,Phones,907.152,6,90.7152,0.2,10,2014-09-06,2014-06-14,2014,9
+CA-2014-115812,"Brosina Hoffman",Consumer,West,"Office Supplies",Binders,18.504,3,5.7825,0.2,31.249999999999993,2014-09-06,2014-06-14,2014,9
+CA-2014-115812,"Brosina Hoffman",Consumer,West,"Office Supplies",Appliances,114.9,5,34.47,0,30,2014-09-06,2014-06-14,2014,9
+CA-2014-115812,"Brosina Hoffman",Consumer,West,Furniture,Tables,1706.184,9,85.3092,0.2,5,2014-09-06,2014-06-14,2014,9
+CA-2014-115812,"Brosina Hoffman",Consumer,West,Technology,Phones,911.424,4,68.3568,0.2,7.500000000000001,2014-09-06,2014-06-14,2014,9
+CA-2017-114412,"Andrew Allen",Consumer,South,"Office Supplies",Paper,15.552,3,5.4432,0.2,35,2017-04-15,2017-04-20,2017,4
+CA-2016-161389,"Irene Maddox",Consumer,West,"Office Supplies",Binders,407.976,3,132.5922,0.2,32.49999999999999,2016-05-12,2016-10-12,2016,5
+CA-2014-105893,"Pete Kriz",Consumer,Central,"Office Supplies",Storage,665.88,6,13.3176,0,2,2014-11-11,2014-11-18,2014,11
+CA-2014-167164,"Alejandro Grove",Consumer,West,"Office Supplies",Storage,55.5,2,9.99,0,18,2014-05-13,2014-05-15,2014,5
+CA-2014-143336,"Zuschuss Donatelli",Consumer,West,"Office Supplies",Art,8.56,2,2.4824,0,28.999999999999996,2014-08-27,2014-01-09,2014,8
+CA-2014-143336,"Zuschuss Donatelli",Consumer,West,Technology,Phones,213.48,3,16.011,0.2,7.5,2014-08-27,2014-01-09,2014,8
+CA-2014-143336,"Zuschuss Donatelli",Consumer,West,"Office Supplies",Binders,22.72,4,7.384,0.2,32.5,2014-08-27,2014-01-09,2014,8
+CA-2016-137330,"Ken Black",Corporate,Central,"Office Supplies",Art,19.46,7,5.0596,0,25.999999999999996,2016-09-12,2016-12-13,2016,9
+CA-2016-137330,"Ken Black",Corporate,Central,"Office Supplies",Appliances,60.34,7,15.6884,0,25.999999999999996,2016-09-12,2016-12-13,2016,9
+US-2017-156909,"Sandra Flanagan",Consumer,East,Furniture,Chairs,71.372,2,-1.0196,0.3,-1.4285714285714286,2017-07-16,2017-07-18,2017,7
+CA-2015-106320,"Emily Burns",Consumer,West,Furniture,Tables,1044.63,3,240.2649,0,23,2015-09-25,2015-09-30,2015,9
+CA-2016-121755,"Eric Hoffmann",Consumer,West,"Office Supplies",Binders,11.648,2,4.2224,0.2,36.25000000000001,2016-01-16,2016-01-20,2016,1
+CA-2016-121755,"Eric Hoffmann",Consumer,West,Technology,Accessories,90.57,3,11.7741,0,13,2016-01-16,2016-01-20,2016,1
+US-2015-150630,"Tracy Blumstein",Consumer,East,Furniture,Bookcases,3083.43,7,-1665.0522,0.5,-54,2015-09-17,2015-09-21,2015,9
+US-2015-150630,"Tracy Blumstein",Consumer,East,"Office Supplies",Binders,9.618,2,-7.0532,0.7,-73.33333333333334,2015-09-17,2015-09-21,2015,9
+US-2015-150630,"Tracy Blumstein",Consumer,East,Furniture,Furnishings,124.2,3,15.525,0.2,12.5,2015-09-17,2015-09-21,2015,9
+US-2015-150630,"Tracy Blumstein",Consumer,East,"Office Supplies",Envelopes,3.264,2,1.1016,0.2,33.75,2015-09-17,2015-09-21,2015,9
+US-2015-150630,"Tracy Blumstein",Consumer,East,"Office Supplies",Art,86.304,6,9.7092,0.2,11.249999999999998,2015-09-17,2015-09-21,2015,9
+US-2015-150630,"Tracy Blumstein",Consumer,East,"Office Supplies",Art,15.76,2,3.546,0.2,22.499999999999996,2015-09-17,2015-09-21,2015,9
+CA-2017-107727,"Matt Abelman","Home Office",Central,"Office Supplies",Paper,29.472,3,9.9468,0.2,33.75,2017-10-19,2017-10-23,2017,10
+CA-2016-117590,"Gene Hale",Corporate,Central,Technology,Phones,1097.544,7,123.4737,0.2,11.249999999999998,2016-08-12,2016-10-12,2016,8
+CA-2016-117590,"Gene Hale",Corporate,Central,Furniture,Furnishings,190.92,5,-147.963,0.6,-77.5,2016-08-12,2016-10-12,2016,8
+CA-2015-117415,"Steve Nguyen","Home Office",Central,"Office Supplies",Envelopes,113.328,9,35.415,0.2,31.25,2015-12-27,2015-12-31,2015,12
+CA-2015-117415,"Steve Nguyen","Home Office",Central,Furniture,Bookcases,532.3992,3,-46.9764,0.32,-8.823529411764707,2015-12-27,2015-12-31,2015,12
+CA-2015-117415,"Steve Nguyen","Home Office",Central,Furniture,Chairs,212.058,3,-15.147,0.3,-7.142857142857144,2015-12-27,2015-12-31,2015,12
+CA-2015-117415,"Steve Nguyen","Home Office",Central,Technology,Phones,371.168,4,41.7564,0.2,11.25,2015-12-27,2015-12-31,2015,12
+CA-2017-120999,"Linda Cazamias",Corporate,Central,Technology,Phones,147.168,4,16.5564,0.2,11.249999999999998,2017-10-09,2017-09-15,2017,10
+CA-2016-101343,"Ruben Ausman",Corporate,West,"Office Supplies",Storage,77.88,2,3.894,0,5,2016-07-17,2016-07-22,2016,7
+CA-2017-139619,"Erin Smith",Corporate,South,"Office Supplies",Storage,95.616,2,9.5616,0.2,10,2017-09-19,2017-09-23,2017,9
+CA-2016-118255,"Odella Nelson",Corporate,Central,Technology,Accessories,45.98,2,19.7714,0,43.00000000000001,2016-11-03,2016-03-13,2016,11
+CA-2016-118255,"Odella Nelson",Corporate,Central,"Office Supplies",Binders,17.46,2,8.2062,0,47,2016-11-03,2016-03-13,2016,11
+CA-2014-146703,"Patrick O'Donnell",Consumer,Central,"Office Supplies",Storage,211.96,4,8.4784,0,4,2014-10-20,2014-10-25,2014,10
+CA-2016-169194,"Lena Hernandez",Consumer,East,Technology,Accessories,45,3,4.95,0,11,2016-06-20,2016-06-25,2016,6
+CA-2016-169194,"Lena Hernandez",Consumer,East,Technology,Phones,21.8,2,6.104,0,27.999999999999996,2016-06-20,2016-06-25,2016,6
+CA-2015-115742,"Darren Powers",Consumer,Central,"Office Supplies",Binders,38.22,6,17.9634,0,47,2015-04-18,2015-04-22,2015,4
+CA-2015-115742,"Darren Powers",Consumer,Central,"Office Supplies",Labels,75.18,6,35.3346,0,47,2015-04-18,2015-04-22,2015,4
+CA-2015-115742,"Darren Powers",Consumer,Central,Furniture,Furnishings,6.16,2,2.9568,0,48,2015-04-18,2015-04-22,2015,4
+CA-2015-115742,"Darren Powers",Consumer,Central,Furniture,Chairs,89.99,1,17.0981,0,19,2015-04-18,2015-04-22,2015,4
+CA-2016-105816,"Janet Molinari",Corporate,East,"Office Supplies",Fasteners,15.26,7,6.2566,0,41,2016-11-12,2016-12-17,2016,11
+CA-2016-105816,"Janet Molinari",Corporate,East,Technology,Phones,1029.95,5,298.6855,0,28.999999999999996,2016-11-12,2016-12-17,2016,11
+CA-2016-111682,"Ted Butterfield",Consumer,East,"Office Supplies",Storage,208.56,6,52.14,0,25,2016-06-17,2016-06-18,2016,6
+CA-2016-111682,"Ted Butterfield",Consumer,East,"Office Supplies",Paper,32.4,5,15.552,0,48,2016-06-17,2016-06-18,2016,6
+CA-2016-111682,"Ted Butterfield",Consumer,East,Furniture,Chairs,319.41,5,7.098,0.1,2.222222222222222,2016-06-17,2016-06-18,2016,6
+CA-2016-111682,"Ted Butterfield",Consumer,East,"Office Supplies",Paper,14.56,2,6.9888,0,48,2016-06-17,2016-06-18,2016,6
+CA-2016-111682,"Ted Butterfield",Consumer,East,Technology,Accessories,30,2,3.3,0,11,2016-06-17,2016-06-18,2016,6
+CA-2016-111682,"Ted Butterfield",Consumer,East,"Office Supplies",Binders,48.48,4,16.362,0.2,33.75,2016-06-17,2016-06-18,2016,6
+CA-2016-111682,"Ted Butterfield",Consumer,East,"Office Supplies",Art,1.68,1,0.84,0,50,2016-06-17,2016-06-18,2016,6
+CA-2015-135545,"Kunst Miller",Consumer,West,Technology,Accessories,13.98,2,6.1512,0,44,2015-11-24,2015-11-30,2015,11
+CA-2015-135545,"Kunst Miller",Consumer,West,"Office Supplies",Binders,25.824,6,9.3612,0.2,36.25,2015-11-24,2015-11-30,2015,11
+CA-2015-135545,"Kunst Miller",Consumer,West,"Office Supplies",Paper,146.73,3,68.9631,0,47,2015-11-24,2015-11-30,2015,11
+CA-2015-135545,"Kunst Miller",Consumer,West,Furniture,Furnishings,79.76,4,22.3328,0,27.999999999999996,2015-11-24,2015-11-30,2015,11
+US-2015-164175,"Paul Stevenson","Home Office",Central,Furniture,Chairs,213.115,5,-15.2225,0.3,-7.142857142857142,2015-04-30,2015-05-05,2015,4
+CA-2014-106376,"Brendan Sweed",Corporate,West,"Office Supplies",Art,1113.024,8,111.3024,0.2,10.000000000000002,2014-05-12,2014-10-12,2014,5
+CA-2014-106376,"Brendan Sweed",Corporate,West,Technology,Phones,167.968,4,62.988,0.2,37.5,2014-05-12,2014-10-12,2014,5
+CA-2016-119823,"Karen Daniels",Consumer,South,"Office Supplies",Paper,75.88,2,35.6636,0,47.00000000000001,2016-04-06,2016-06-06,2016,4
+CA-2016-106075,"Henry MacAllister",Consumer,East,"Office Supplies",Binders,4.616,1,1.731,0.2,37.50000000000001,2016-09-18,2016-09-23,2016,9
+CA-2017-114440,"Tracy Blumstein",Consumer,Central,"Office Supplies",Paper,19.05,3,8.763,0,46,2017-09-14,2017-09-17,2017,9
+US-2015-134026,"Joel Eaton",Consumer,South,Furniture,Chairs,831.936,8,-114.3912,0.2,-13.749999999999998,2015-04-26,2015-02-05,2015,4
+US-2015-134026,"Joel Eaton",Consumer,South,Furniture,Furnishings,97.04,2,1.213,0.2,1.25,2015-04-26,2015-02-05,2015,4
+US-2015-134026,"Joel Eaton",Consumer,South,"Office Supplies",Storage,72.784,1,-18.196,0.2,-25,2015-04-26,2015-02-05,2015,4
+US-2017-118038,"Ken Brennan",Corporate,Central,"Office Supplies",Storage,27.24,3,2.724,0.2,10.000000000000002,2017-09-12,2017-11-12,2017,9
+US-2014-147606,"Joel Eaton",Consumer,Central,Furniture,Furnishings,19.3,5,-14.475,0.6,-75,2014-11-26,2014-01-12,2014,11
+CA-2016-127208,"Stewart Carmichael",Corporate,South,"Office Supplies",Appliances,208.16,1,56.2032,0,27,2016-12-06,2016-06-15,2016,12
+CA-2016-127208,"Stewart Carmichael",Corporate,South,"Office Supplies",Binders,16.74,3,8.0352,0,48.00000000000001,2016-12-06,2016-06-15,2016,12
+CA-2014-139451,"Duane Noonan",Consumer,West,"Office Supplies",Art,14.9,5,4.172,0,27.999999999999996,2014-12-10,2014-10-16,2014,12
+CA-2014-139451,"Duane Noonan",Consumer,West,"Office Supplies",Storage,21.39,1,6.2031,0,28.999999999999996,2014-12-10,2014-10-16,2014,12
+CA-2015-149734,"Julie Creighton",Corporate,South,"Office Supplies",Envelopes,200.984,7,62.8075,0.2,31.25,2015-03-09,2015-08-09,2015,3
+US-2017-119662,"Christopher Schild","Home Office",Central,"Office Supplies",Storage,230.376,3,-48.9549,0.2,-21.25,2017-11-13,2017-11-16,2017,11
+CA-2017-140088,"Patrick O'Donnell",Consumer,South,Furniture,Chairs,301.96,2,33.2156,0,11.000000000000002,2017-05-28,2017-05-30,2017,5
+CA-2017-155558,"Paul Gonzalez",Consumer,Central,Technology,Accessories,19.99,1,6.7966,0,34,2017-10-26,2017-02-11,2017,10
+CA-2017-155558,"Paul Gonzalez",Consumer,Central,"Office Supplies",Labels,6.16,2,2.9568,0,48,2017-10-26,2017-02-11,2017,10
+CA-2016-159695,"Gary Mitchum","Home Office",Central,"Office Supplies",Storage,158.368,7,13.8572,0.2,8.75,2016-05-04,2016-10-04,2016,5
+CA-2016-109806,"Jim Sink",Corporate,West,"Office Supplies",Art,20.1,3,6.633,0,32.99999999999999,2016-09-17,2016-09-22,2016,9
+CA-2016-109806,"Jim Sink",Corporate,West,Technology,Phones,73.584,2,8.2782,0.2,11.249999999999998,2016-09-17,2016-09-22,2016,9
+CA-2016-109806,"Jim Sink",Corporate,West,"Office Supplies",Paper,6.48,1,3.1104,0,47.99999999999999,2016-09-17,2016-09-22,2016,9
+CA-2015-149587,"Karl Braun",Consumer,Central,"Office Supplies",Paper,12.96,2,6.2208,0,47.99999999999999,2015-01-31,2015-05-02,2015,1
+CA-2015-149587,"Karl Braun",Consumer,Central,Furniture,Furnishings,53.34,3,16.5354,0,30.999999999999993,2015-01-31,2015-05-02,2015,1
+CA-2015-149587,"Karl Braun",Consumer,Central,"Office Supplies",Binders,32.96,2,16.1504,0,49.00000000000001,2015-01-31,2015-05-02,2015,1
+US-2017-109484,"Roger Barcio","Home Office",West,"Office Supplies",Binders,5.682,1,-3.788,0.7,-66.66666666666666,2017-06-11,2017-12-11,2017,6
+CA-2017-161018,"Parhena Norris","Home Office",East,Furniture,Furnishings,96.53,7,40.5426,0,42,2017-09-11,2017-11-11,2017,9
+CA-2017-157833,"Katherine Ducich",Consumer,West,"Office Supplies",Binders,51.312,3,17.9592,0.2,35,2017-06-17,2017-06-20,2017,6
+CA-2016-149223,"Elpida Rittenbach",Corporate,Central,"Office Supplies",Appliances,77.88,6,22.5852,0,29.000000000000004,2016-06-09,2016-11-09,2016,6
+CA-2016-158568,"Rick Bensley","Home Office",Central,"Office Supplies",Paper,64.624,7,22.6184,0.2,35,2016-08-29,2016-02-09,2016,8
+CA-2016-158568,"Rick Bensley","Home Office",Central,Technology,Accessories,95.976,3,-10.7973,0.2,-11.25,2016-08-29,2016-02-09,2016,8
+CA-2016-129903,"Gary Zandusky",Consumer,Central,"Office Supplies",Paper,23.92,4,11.7208,0,49,2016-01-12,2016-04-12,2016,1
+US-2015-156867,"Lena Cacioppo",Consumer,West,Technology,Accessories,238.896,6,-26.8758,0.2,-11.250000000000002,2015-11-13,2015-11-17,2015,11
+US-2015-156867,"Lena Cacioppo",Consumer,West,Furniture,Furnishings,102.36,3,-3.8385,0.2,-3.75,2015-11-13,2015-11-17,2015,11
+CA-2017-119004,"Janet Martin",Consumer,South,Technology,Accessories,74.112,8,17.6016,0.2,23.750000000000004,2017-11-23,2017-11-28,2017,11
+CA-2017-119004,"Janet Martin",Consumer,South,Technology,Phones,27.992,1,2.0994,0.2,7.5,2017-11-23,2017-11-28,2017,11
+CA-2017-119004,"Janet Martin",Consumer,South,"Office Supplies",Art,3.304,1,1.0738,0.2,32.50000000000001,2017-11-23,2017-11-28,2017,11
+CA-2015-129476,"Pete Armstrong","Home Office",Central,Technology,Accessories,339.96,5,67.992,0.2,20.000000000000004,2015-10-15,2015-10-20,2015,10
+CA-2017-146780,"Cynthia Voltz",Corporate,East,Furniture,Furnishings,41.96,2,10.9096,0,25.999999999999996,2017-12-25,2017-12-30,2017,12
+CA-2016-128867,"Clay Ludtke",Consumer,Central,"Office Supplies",Art,75.96,2,22.788,0,30.000000000000004,2016-03-11,2016-10-11,2016,3
+CA-2016-128867,"Clay Ludtke",Consumer,Central,"Office Supplies",Binders,27.24,6,13.3476,0,49.00000000000001,2016-03-11,2016-10-11,2016,3
+CA-2014-115259,"Ryan Crowe",Consumer,East,"Office Supplies",Fasteners,40.096,14,14.5348,0.2,36.25000000000001,2014-08-25,2014-08-27,2014,8
+CA-2014-115259,"Ryan Crowe",Consumer,East,"Office Supplies",Envelopes,4.72,2,1.652,0.2,35,2014-08-25,2014-08-27,2014,8
+CA-2014-115259,"Ryan Crowe",Consumer,East,"Office Supplies",Paper,23.976,3,7.4925,0.2,31.25,2014-08-25,2014-08-27,2014,8
+CA-2014-115259,"Ryan Crowe",Consumer,East,"Office Supplies",Envelopes,130.464,6,44.0316,0.2,33.75,2014-08-25,2014-08-27,2014,8
+CA-2015-110457,"Dave Kipp",Consumer,West,Furniture,Tables,787.53,3,165.3813,0,21.000000000000004,2015-02-03,2015-06-03,2015,2
+US-2015-136476,"Greg Guthrie",Corporate,South,"Office Supplies",Binders,157.794,1,-115.7156,0.7,-73.33333333333333,2015-05-04,2015-10-04,2015,5
+CA-2016-103730,"Steven Cartwright",Consumer,East,Furniture,Furnishings,47.04,3,18.3456,0,39,2016-12-06,2016-06-15,2016,12
+CA-2016-103730,"Steven Cartwright",Consumer,East,"Office Supplies",Binders,30.84,4,13.878,0,45,2016-12-06,2016-06-15,2016,12
+CA-2016-103730,"Steven Cartwright",Consumer,East,"Office Supplies",Storage,226.56,6,63.4368,0,27.999999999999996,2016-12-06,2016-06-15,2016,12
+CA-2016-103730,"Steven Cartwright",Consumer,East,"Office Supplies",Envelopes,115.02,9,51.759,0,45,2016-12-06,2016-06-15,2016,12
+CA-2016-103730,"Steven Cartwright",Consumer,East,Technology,Phones,68.04,7,19.7316,0,28.999999999999996,2016-12-06,2016-06-15,2016,12
+US-2014-152030,"Alan Dominguez","Home Office",Central,Furniture,Chairs,600.558,3,-8.5794,0.3,-1.4285714285714286,2014-12-26,2014-12-28,2014,12
+US-2014-134614,"Philip Fox",Consumer,Central,Furniture,Tables,617.7,6,-407.682,0.5,-66,2014-09-20,2014-09-25,2014,9
+US-2017-107272,"Troy Staebel",Consumer,West,"Office Supplies",Binders,2.388,2,-1.8308,0.7,-76.66666666666667,2017-05-11,2017-12-11,2017,5
+US-2017-107272,"Troy Staebel",Consumer,West,"Office Supplies",Storage,243.992,7,30.499,0.2,12.5,2017-05-11,2017-12-11,2017,5
+US-2016-125969,"Lindsay Shagiari","Home Office",West,Furniture,Chairs,81.424,2,-9.1602,0.2,-11.249999999999998,2016-06-11,2016-10-11,2016,6
+US-2016-125969,"Lindsay Shagiari","Home Office",West,Furniture,Furnishings,238.56,3,26.2416,0,10.999999999999998,2016-06-11,2016-10-11,2016,6
+US-2017-164147,"Dorothy Wardle",Corporate,East,Technology,Phones,59.97,5,-11.994,0.4,-20,2017-02-02,2017-05-02,2017,2
+US-2017-164147,"Dorothy Wardle",Corporate,East,"Office Supplies",Paper,78.304,2,29.364,0.2,37.5,2017-02-02,2017-05-02,2017,2
+US-2017-164147,"Dorothy Wardle",Corporate,East,"Office Supplies",Fasteners,21.456,9,6.9732,0.2,32.5,2017-02-02,2017-05-02,2017,2
+CA-2016-145583,"Lena Creighton",Consumer,West,"Office Supplies",Paper,20.04,3,9.6192,0,48,2016-10-13,2016-10-19,2016,10
+CA-2016-145583,"Lena Creighton",Consumer,West,"Office Supplies",Paper,35.44,1,16.6568,0,47,2016-10-13,2016-10-19,2016,10
+CA-2016-145583,"Lena Creighton",Consumer,West,"Office Supplies",Art,11.52,4,3.456,0,30,2016-10-13,2016-10-19,2016,10
+CA-2016-145583,"Lena Creighton",Consumer,West,"Office Supplies",Fasteners,4.02,2,1.9698,0,49.00000000000001,2016-10-13,2016-10-19,2016,10
+CA-2016-145583,"Lena Creighton",Consumer,West,"Office Supplies",Binders,76.176,3,26.6616,0.2,35,2016-10-13,2016-10-19,2016,10
+CA-2016-145583,"Lena Creighton",Consumer,West,"Office Supplies",Supplies,65.88,6,18.4464,0,28.000000000000004,2016-10-13,2016-10-19,2016,10
+CA-2016-145583,"Lena Creighton",Consumer,West,Furniture,Furnishings,43.12,14,20.6976,0,48.00000000000001,2016-10-13,2016-10-19,2016,10
+CA-2016-110366,"Jonathan Doherty",Corporate,East,Furniture,Furnishings,82.8,2,10.35,0.2,12.5,2016-05-09,2016-07-09,2016,5
+CA-2017-106180,"Sally Hughsby",Corporate,West,"Office Supplies",Art,8.82,3,2.3814,0,27,2017-09-18,2017-09-23,2017,9
+CA-2017-106180,"Sally Hughsby",Corporate,West,"Office Supplies",Envelopes,10.86,3,5.1042,0,47,2017-09-18,2017-09-23,2017,9
+CA-2017-106180,"Sally Hughsby",Corporate,West,"Office Supplies",Paper,143.7,3,68.976,0,48.00000000000001,2017-09-18,2017-09-23,2017,9
+CA-2017-155376,"Sandra Glassco",Consumer,Central,"Office Supplies",Appliances,839.43,3,218.2518,0,26,2017-12-22,2017-12-27,2017,12
+CA-2015-110744,"Helen Andreada",Consumer,West,"Office Supplies",Storage,671.93,7,20.1579,0,3.0000000000000004,2015-07-09,2015-12-09,2015,7
+CA-2014-110072,"Maureen Gastineau","Home Office",East,Furniture,Furnishings,93.888,4,12.9096,0.2,13.749999999999998,2014-10-22,2014-10-28,2014,10
+CA-2016-114489,"Justin Ellison",Corporate,Central,Technology,Phones,384.45,11,103.8015,0,27,2016-05-12,2016-09-12,2016,5
+CA-2016-114489,"Justin Ellison",Corporate,Central,Technology,Phones,149.97,3,5.9988,0,4,2016-05-12,2016-09-12,2016,5
+CA-2016-114489,"Justin Ellison",Corporate,Central,Furniture,Chairs,1951.84,8,585.552,0,30.000000000000004,2016-05-12,2016-09-12,2016,5
+CA-2016-114489,"Justin Ellison",Corporate,Central,"Office Supplies",Binders,171.55,5,80.6285,0,47,2016-05-12,2016-09-12,2016,5
+CA-2016-158834,"Tamara Willingham","Home Office",West,"Office Supplies",Appliances,157.92,5,17.766,0.2,11.25,2016-03-13,2016-03-16,2016,3
+CA-2016-158834,"Tamara Willingham","Home Office",West,Technology,Phones,203.184,2,15.2388,0.2,7.5,2016-03-13,2016-03-16,2016,3
+CA-2015-124919,"Stephanie Phelps",Corporate,West,"Office Supplies",Paper,58.38,7,26.271,0,45,2015-05-31,2015-02-06,2015,5
+CA-2015-124919,"Stephanie Phelps",Corporate,West,"Office Supplies",Paper,105.52,4,48.5392,0,46,2015-05-31,2015-02-06,2015,5
+CA-2015-124919,"Stephanie Phelps",Corporate,West,"Office Supplies",Storage,80.88,6,21.0288,0,26,2015-05-31,2015-02-06,2015,5
+CA-2015-118948,"Neil Knudson","Home Office",West,"Office Supplies",Art,6.63,3,1.7901,0,27,2015-05-28,2015-03-06,2015,5
+CA-2014-104269,"Dave Brooks",Consumer,West,Furniture,Chairs,457.568,2,51.4764,0.2,11.25,2014-01-03,2014-06-03,2014,1
+CA-2016-114104,"Nora Paige",Consumer,Central,"Office Supplies",Labels,14.62,2,6.8714,0,47,2016-11-20,2016-11-24,2016,11
+CA-2016-114104,"Nora Paige",Consumer,Central,Technology,Phones,944.93,7,236.2325,0,25,2016-11-20,2016-11-24,2016,11
+CA-2016-162733,"Ted Trevino",Consumer,West,"Office Supplies",Paper,5.98,1,2.691,0,44.99999999999999,2016-11-05,2016-12-05,2016,11
+CA-2015-119697,"Eric Murdock",Consumer,East,Technology,Accessories,54.384,2,1.3596,0.2,2.5,2015-12-28,2015-12-31,2015,12
+CA-2016-154508,"Ruben Dartt",Consumer,West,"Office Supplies",Envelopes,28.4,5,13.348,0,47,2016-11-16,2016-11-20,2016,11
+CA-2016-113817,"Max Jones",Consumer,West,"Office Supplies",Binders,27.68,2,9.688,0.2,35,2016-07-11,2016-11-11,2016,7
+CA-2014-139892,"Becky Martin",Consumer,Central,"Office Supplies",Art,9.936,3,2.7324,0.2,27.500000000000004,2014-08-09,2014-12-09,2014,8
+CA-2014-139892,"Becky Martin",Consumer,Central,Technology,Machines,8159.952,8,-1359.992,0.4,-16.666666666666664,2014-08-09,2014-12-09,2014,8
+CA-2014-139892,"Becky Martin",Consumer,Central,"Office Supplies",Storage,275.928,3,-58.6347,0.2,-21.250000000000004,2014-08-09,2014-12-09,2014,8
+CA-2014-139892,"Becky Martin",Consumer,Central,Furniture,Chairs,1740.06,9,-24.858,0.3,-1.4285714285714286,2014-08-09,2014-12-09,2014,8
+CA-2014-139892,"Becky Martin",Consumer,Central,"Office Supplies",Art,32.064,6,6.8136,0.2,21.25,2014-08-09,2014-12-09,2014,8
+CA-2014-139892,"Becky Martin",Consumer,Central,Technology,Phones,143.976,3,8.9985,0.2,6.25,2014-08-09,2014-12-09,2014,8
+CA-2014-118962,"Chad Sievert",Consumer,West,"Office Supplies",Paper,20.94,3,9.8418,0,46.99999999999999,2014-05-08,2014-09-08,2014,5
+CA-2014-118962,"Chad Sievert",Consumer,West,"Office Supplies",Paper,110.96,2,53.2608,0,48.00000000000001,2014-05-08,2014-09-08,2014,5
+CA-2014-118962,"Chad Sievert",Consumer,West,Furniture,Chairs,340.144,7,21.259,0.2,6.25,2014-05-08,2014-09-08,2014,5
+US-2014-100853,"Jennifer Braxton",Corporate,Central,"Office Supplies",Labels,20.16,4,6.552,0.2,32.49999999999999,2014-09-14,2014-09-19,2014,9
+US-2015-101511,"Joel Eaton",Consumer,East,Furniture,Chairs,396.802,7,-11.3372,0.3,-2.8571428571428568,2015-11-21,2015-11-23,2015,11
+US-2015-101511,"Joel Eaton",Consumer,East,"Office Supplies",Supplies,15.88,5,-3.7715,0.2,-23.75,2015-11-21,2015-11-23,2015,11
+CA-2015-137225,"Jim Kriz","Home Office",East,"Office Supplies",Art,3.28,1,1.4104,0,43.00000000000001,2015-12-15,2015-12-19,2015,12
+CA-2014-166191,"David Kendrick",Corporate,Central,"Office Supplies",Storage,24.816,2,1.8612,0.2,7.5,2014-05-12,2014-09-12,2014,5
+CA-2014-166191,"David Kendrick",Corporate,Central,Technology,Accessories,408.744,7,76.6395,0.2,18.749999999999996,2014-05-12,2014-09-12,2014,5
+CA-2014-158274,"Robert Marley","Home Office",South,Technology,Phones,503.96,4,131.0296,0,26,2014-11-19,2014-11-24,2014,11
+CA-2014-158274,"Robert Marley","Home Office",South,Technology,Phones,149.95,5,41.986,0,28.000000000000004,2014-11-19,2014-11-24,2014,11
+CA-2014-158274,"Robert Marley","Home Office",South,Technology,Accessories,29,2,7.25,0,25,2014-11-19,2014-11-24,2014,11
+CA-2016-105018,"Sally Knutson",Consumer,East,"Office Supplies",Binders,7.16,2,3.4368,0,48,2016-11-28,2016-02-12,2016,11
+CA-2014-123260,"Frank Merwin","Home Office",West,Technology,Accessories,176.8,8,22.984,0,13,2014-08-26,2014-08-30,2014,8
+CA-2016-157000,"Alice McCarthy",Corporate,Central,"Office Supplies",Storage,37.224,3,3.7224,0.2,10,2016-07-16,2016-07-22,2016,7
+CA-2016-157000,"Alice McCarthy",Corporate,Central,"Office Supplies",Paper,20.016,3,6.255,0.2,31.25,2016-07-16,2016-07-22,2016,7
+CA-2015-102281,"Mark Packer","Home Office",East,Furniture,Bookcases,899.136,4,112.392,0.2,12.5,2015-12-10,2015-10-14,2015,12
+CA-2015-102281,"Mark Packer","Home Office",East,Technology,Phones,71.76,6,20.0928,0,27.999999999999996,2015-12-10,2015-10-14,2015,12
+CA-2015-102281,"Mark Packer","Home Office",East,"Office Supplies",Paper,51.84,8,24.8832,0,47.99999999999999,2015-12-10,2015-10-14,2015,12
+CA-2015-102281,"Mark Packer","Home Office",East,Furniture,Bookcases,626.352,3,46.9764,0.2,7.5,2015-12-10,2015-10-14,2015,12
+CA-2015-102281,"Mark Packer","Home Office",East,"Office Supplies",Art,19.9,5,6.567,0,33,2015-12-10,2015-10-14,2015,12
+CA-2015-131457,"Mary Zewe",Corporate,West,"Office Supplies",Envelopes,14.28,7,6.7116,0,47,2015-10-31,2015-06-11,2015,10
+CA-2014-140004,"Cassandra Brandow",Consumer,East,"Office Supplies",Art,7.408,2,1.2038,0.2,16.249999999999996,2014-03-21,2014-03-25,2014,3
+CA-2014-140004,"Cassandra Brandow",Consumer,East,"Office Supplies",Art,6.048,3,1.5876,0.2,26.249999999999996,2014-03-21,2014-03-25,2014,3
+CA-2017-107720,"Valerie Mitchum","Home Office",East,"Office Supplies",Storage,46.26,3,12.0276,0,26,2017-06-11,2017-11-13,2017,6
+US-2017-124303,"Fred Hopkins",Corporate,East,"Office Supplies",Paper,16.056,3,5.8203,0.2,36.24999999999999,2017-06-07,2017-07-13,2017,6
+CA-2017-105074,"Maria Bertelson",Consumer,East,"Office Supplies",Paper,21.744,3,6.795,0.2,31.25,2017-06-24,2017-06-29,2017,6
+CA-2014-133690,"Bruce Stewart",Consumer,West,Furniture,Tables,218.75,2,-161.875,0.5,-74,2014-03-08,2014-05-08,2014,3
+CA-2014-133690,"Bruce Stewart",Consumer,West,"Office Supplies",Appliances,2.6,1,0.2925,0.2,11.249999999999998,2014-03-08,2014-05-08,2014,3
+CA-2017-126382,"Heather Kirkland",Corporate,South,Furniture,Furnishings,35.168,7,9.6712,0.2,27.500000000000004,2017-03-06,2017-07-06,2017,3
+CA-2017-108329,"Laurel Elliston",Consumer,West,Technology,Phones,444.768,4,44.4768,0.2,10,2017-09-12,2017-12-14,2017,9
+CA-2017-135860,"Joseph Holt",Consumer,Central,"Office Supplies",Storage,83.92,4,5.8744,0,6.999999999999999,2017-01-12,2017-07-12,2017,1
+CA-2017-135860,"Joseph Holt",Consumer,Central,Technology,Phones,131.98,2,35.6346,0,27,2017-01-12,2017-07-12,2017,1
+CA-2017-135860,"Joseph Holt",Consumer,Central,"Office Supplies",Binders,15.92,4,7.4824,0,47,2017-01-12,2017-07-12,2017,1
+CA-2017-135860,"Joseph Holt",Consumer,Central,"Office Supplies",Fasteners,52.29,9,16.2099,0,31.000000000000007,2017-01-12,2017-07-12,2017,1
+CA-2017-135860,"Joseph Holt",Consumer,Central,"Office Supplies",Storage,91.99,1,3.6796,0,4.000000000000001,2017-01-12,2017-07-12,2017,1
+CA-2015-101007,"Michael Stewart",Corporate,Central,Technology,Accessories,20.8,2,6.5,0.2,31.25,2015-09-02,2015-02-13,2015,9
+CA-2015-146262,"Victoria Wilson",Corporate,East,"Office Supplies",Labels,23.68,2,8.88,0.2,37.50000000000001,2015-02-01,2015-09-01,2015,2
+CA-2015-146262,"Victoria Wilson",Corporate,East,Furniture,Bookcases,452.45,5,-244.323,0.5,-54,2015-02-01,2015-09-01,2015,2
+CA-2015-146262,"Victoria Wilson",Corporate,East,Technology,Phones,62.982,3,-14.6958,0.4,-23.333333333333332,2015-02-01,2015-09-01,2015,2
+CA-2015-146262,"Victoria Wilson",Corporate,East,Technology,Machines,1188,9,-950.4,0.7,-80,2015-02-01,2015-09-01,2015,2
+CA-2015-146262,"Victoria Wilson",Corporate,East,Technology,Accessories,89.584,2,4.4792,0.2,5,2015-02-01,2015-09-01,2015,2
+CA-2016-130162,"Jonathan Howell",Consumer,West,"Office Supplies",Storage,93.06,6,26.0568,0,27.999999999999996,2016-10-28,2016-01-11,2016,10
+CA-2016-130162,"Jonathan Howell",Consumer,West,Technology,Phones,302.376,3,22.6782,0.2,7.500000000000001,2016-10-28,2016-01-11,2016,10
+CA-2015-169397,"Joni Blumstein",Consumer,East,"Office Supplies",Fasteners,5.584,2,1.8148,0.2,32.5,2015-12-24,2015-12-27,2015,12
+CA-2015-169397,"Joni Blumstein",Consumer,East,"Office Supplies",Paper,22.704,6,8.2302,0.2,36.25,2015-12-24,2015-12-27,2015,12
+CA-2015-169397,"Joni Blumstein",Consumer,East,"Office Supplies",Binders,19.776,4,-13.8432,0.7,-70,2015-12-24,2015-12-27,2015,12
+CA-2015-169397,"Joni Blumstein",Consumer,East,Furniture,Furnishings,72.704,4,19.0848,0.2,26.250000000000007,2015-12-24,2015-12-27,2015,12
+CA-2015-169397,"Joni Blumstein",Consumer,East,Technology,Machines,479.988,4,-383.9904,0.7,-80,2015-12-24,2015-12-27,2015,12
+CA-2015-169397,"Joni Blumstein",Consumer,East,"Office Supplies",Art,27.168,2,2.7168,0.2,10,2015-12-24,2015-12-27,2015,12
+CA-2015-163055,"David Smith",Corporate,Central,"Office Supplies",Art,2.2,1,0.968,0,43.99999999999999,2015-09-08,2015-08-16,2015,9
+CA-2015-163055,"David Smith",Corporate,Central,Furniture,Tables,622.45,5,136.939,0,21.999999999999996,2015-09-08,2015-08-16,2015,9
+CA-2015-163055,"David Smith",Corporate,Central,"Office Supplies",Storage,21.98,1,0.2198,0,1,2015-09-08,2015-08-16,2015,9
+US-2015-145436,"Valerie Dominguez",Consumer,South,Furniture,Chairs,161.568,2,-28.2744,0.2,-17.5,2015-02-28,2015-04-03,2015,2
+US-2015-145436,"Valerie Dominguez",Consumer,South,Furniture,Chairs,389.696,8,43.8408,0.2,11.25,2015-02-28,2015-04-03,2015,2
+US-2014-156216,"Erin Ashbrook",Corporate,South,"Office Supplies",Binders,18.648,7,-12.432,0.7,-66.66666666666667,2014-09-13,2014-09-17,2014,9
+US-2017-100930,"Christopher Schild","Home Office",South,Furniture,Tables,233.86,2,-102.048,0.45,-43.63636363636363,2017-07-04,2017-12-04,2017,7
+US-2017-100930,"Christopher Schild","Home Office",South,Furniture,Tables,620.6145,3,-248.2458,0.45,-40,2017-07-04,2017-12-04,2017,7
+US-2017-100930,"Christopher Schild","Home Office",South,"Office Supplies",Binders,5.328,2,-3.552,0.7,-66.66666666666666,2017-07-04,2017-12-04,2017,7
+US-2017-100930,"Christopher Schild","Home Office",South,Furniture,Furnishings,258.072,3,0,0.2,0,2017-07-04,2017-12-04,2017,7
+US-2017-100930,"Christopher Schild","Home Office",South,Technology,Accessories,617.976,3,-7.7247,0.2,-1.25,2017-07-04,2017-12-04,2017,7
+CA-2017-160514,"David Bremer",Corporate,West,"Office Supplies",Paper,10.56,2,4.752,0,44.99999999999999,2017-12-11,2017-11-16,2017,12
+CA-2016-157749,"Ken Lonsdale",Consumer,Central,"Office Supplies",Paper,25.92,5,9.396,0.2,36.25,2016-04-06,2016-09-06,2016,4
+CA-2016-157749,"Ken Lonsdale",Consumer,Central,Furniture,Furnishings,419.68,5,-356.728,0.6,-85,2016-04-06,2016-09-06,2016,4
+CA-2016-157749,"Ken Lonsdale",Consumer,Central,Furniture,Furnishings,11.688,3,-4.6752,0.6,-40,2016-04-06,2016-09-06,2016,4
+CA-2016-157749,"Ken Lonsdale",Consumer,Central,Technology,Phones,31.984,2,11.1944,0.2,35,2016-04-06,2016-09-06,2016,4
+CA-2016-157749,"Ken Lonsdale",Consumer,Central,Furniture,Tables,177.225,5,-120.513,0.5,-68,2016-04-06,2016-09-06,2016,4
+CA-2016-157749,"Ken Lonsdale",Consumer,Central,Furniture,Furnishings,4.044,3,-2.8308,0.6,-70,2016-04-06,2016-09-06,2016,4
+CA-2016-157749,"Ken Lonsdale",Consumer,Central,"Office Supplies",Art,7.408,2,1.2038,0.2,16.249999999999996,2016-04-06,2016-09-06,2016,4
+CA-2014-131926,"Dianna Wilson","Home Office",Central,Furniture,Chairs,2001.86,7,580.5394,0,29.000000000000004,2014-01-06,2014-06-06,2014,1
+CA-2014-131926,"Dianna Wilson","Home Office",Central,"Office Supplies",Storage,166.72,2,41.68,0,25,2014-01-06,2014-06-06,2014,1
+CA-2014-131926,"Dianna Wilson","Home Office",Central,"Office Supplies",Paper,47.88,6,23.94,0,50,2014-01-06,2014-06-06,2014,1
+CA-2014-131926,"Dianna Wilson","Home Office",Central,"Office Supplies",Appliances,1503.25,5,496.0725,0,33,2014-01-06,2014-06-06,2014,1
+CA-2014-131926,"Dianna Wilson","Home Office",Central,"Office Supplies",Paper,25.92,4,12.4416,0,47.99999999999999,2014-01-06,2014-06-06,2014,1
+CA-2016-154739,"Logan Haushalter",Consumer,West,Furniture,Chairs,321.568,2,28.1372,0.2,8.75,2016-10-12,2016-12-15,2016,10
+CA-2016-145625,"Kelly Collister",Consumer,West,"Office Supplies",Paper,7.61,1,3.5767,0,47,2016-11-09,2016-09-17,2016,11
+CA-2016-145625,"Kelly Collister",Consumer,West,Technology,Accessories,3347.37,13,636.0003,0,19.000000000000004,2016-11-09,2016-09-17,2016,11
+CA-2016-146941,"Delfina Latchford",Consumer,East,"Office Supplies",Storage,80.58,6,22.5624,0,28.000000000000004,2016-10-12,2016-12-13,2016,10
+CA-2016-146941,"Delfina Latchford",Consumer,East,"Office Supplies",Envelopes,361.92,4,162.864,0,45,2016-10-12,2016-12-13,2016,10
+US-2015-159982,"Dan Reichenbach",Corporate,Central,Furniture,Furnishings,12.132,9,-8.4924,0.6,-70,2015-11-28,2015-04-12,2015,11
+US-2015-159982,"Dan Reichenbach",Corporate,Central,"Office Supplies",Storage,53.92,5,4.044,0.2,7.499999999999998,2015-11-28,2015-04-12,2015,11
+US-2015-159982,"Dan Reichenbach",Corporate,Central,Technology,Phones,647.904,6,56.6916,0.2,8.75,2015-11-28,2015-04-12,2015,11
+CA-2017-163139,"Craig Carreira",Consumer,East,Technology,Accessories,20.37,3,6.9258,0,34,2017-01-12,2017-03-12,2017,1
+CA-2017-163139,"Craig Carreira",Consumer,East,"Office Supplies",Storage,221.55,3,6.6465,0,2.9999999999999996,2017-01-12,2017-03-12,2017,1
+CA-2017-163139,"Craig Carreira",Consumer,East,"Office Supplies",Binders,17.52,5,6.132,0.2,35,2017-01-12,2017-03-12,2017,1
+US-2014-106992,"Sean Braxton",Corporate,Central,Technology,Machines,3059.982,3,-509.997,0.4,-16.666666666666668,2014-09-19,2014-09-21,2014,9
+US-2014-106992,"Sean Braxton",Corporate,Central,Technology,Machines,2519.958,7,-251.9958,0.4,-10,2014-09-19,2014-09-21,2014,9
+CA-2016-125318,"Roy Collins",Consumer,Central,Technology,Phones,328.224,4,28.7196,0.2,8.75,2016-06-06,2016-06-13,2016,6
+CA-2015-155040,"Alan Hwang",Consumer,West,Technology,Accessories,79.9,2,35.156,0,43.99999999999999,2015-10-11,2015-11-15,2015,10
+CA-2017-136826,"Claudia Bergmann",Corporate,South,"Office Supplies",Art,14.016,3,4.7304,0.2,33.75,2017-06-16,2017-06-20,2017,6
+CA-2016-111010,"Paul Gonzalez",Consumer,East,"Office Supplies",Fasteners,7.56,6,0.3024,0,4,2016-01-22,2016-01-28,2016,1
+US-2017-145366,"Christine Abelman",Corporate,East,"Office Supplies",Storage,37.208,1,-7.4416,0.2,-20,2017-09-12,2017-12-13,2017,9
+US-2017-145366,"Christine Abelman",Corporate,East,"Office Supplies",Envelopes,57.576,3,21.591,0.2,37.5,2017-09-12,2017-12-13,2017,9
+CA-2017-163979,"Kristen Hastings",Corporate,West,"Office Supplies",Storage,725.84,4,210.4936,0,28.999999999999996,2017-12-28,2018-02-01,2017,12
+CA-2015-155334,"Helen Andreada",Consumer,West,Technology,Accessories,209.93,7,92.3692,0,44,2015-07-30,2015-07-31,2015,7
+CA-2015-155334,"Helen Andreada",Consumer,West,Furniture,Furnishings,5.28,3,2.3232,0,43.99999999999999,2015-07-30,2015-07-31,2015,7
+CA-2015-155334,"Helen Andreada",Consumer,West,"Office Supplies",Binders,10.92,3,4.095,0.2,37.5,2015-07-30,2015-07-31,2015,7
+CA-2017-118136,"Barry Blumstein",Corporate,West,"Office Supplies",Art,5.98,1,1.5548,0,25.999999999999996,2017-09-16,2017-09-17,2017,9
+CA-2017-132976,"Andrew Gjertsen",Corporate,East,"Office Supplies",Paper,11.648,2,4.0768,0.2,35,2017-10-13,2017-10-17,2017,10
+CA-2017-132976,"Andrew Gjertsen",Corporate,East,"Office Supplies",Storage,59.712,6,5.9712,0.2,10,2017-10-13,2017-10-17,2017,10
+CA-2017-132976,"Andrew Gjertsen",Corporate,East,"Office Supplies",Labels,24.84,3,8.694,0.2,35,2017-10-13,2017-10-17,2017,10
+US-2015-161991,"Steven Cartwright",Consumer,Central,Technology,Phones,1114.4,7,376.11,0.2,33.75,2015-09-26,2015-09-28,2015,9
+CA-2015-130890,"Jas O'Carroll",Consumer,West,Furniture,Tables,1038.84,5,51.942,0.2,5,2015-02-11,2015-06-11,2015,2
+CA-2015-130883,"Tracy Blumstein",Consumer,West,"Office Supplies",Paper,141.76,5,47.844,0.2,33.75,2015-09-26,2015-02-10,2015,9
+CA-2015-130883,"Tracy Blumstein",Consumer,West,Technology,Accessories,239.8,5,47.96,0.2,20,2015-09-26,2015-02-10,2015,9
+CA-2015-130883,"Tracy Blumstein",Consumer,West,"Office Supplies",Paper,31.104,6,10.8864,0.2,35,2015-09-26,2015-02-10,2015,9
+CA-2016-112697,"Alan Haines",Corporate,South,"Office Supplies",Binders,254.058,7,-169.372,0.7,-66.66666666666667,2016-12-18,2016-12-20,2016,12
+CA-2016-112697,"Alan Haines",Corporate,South,"Office Supplies",Appliances,194.528,2,24.316,0.2,12.5,2016-12-18,2016-12-20,2016,12
+CA-2016-112697,"Alan Haines",Corporate,South,"Office Supplies",Supplies,961.48,5,-204.3145,0.2,-21.25,2016-12-18,2016-12-20,2016,12
+CA-2016-110772,"Nick Zandusky","Home Office",East,"Office Supplies",Fasteners,19.096,7,6.6836,0.2,35,2016-11-20,2016-11-24,2016,11
+CA-2016-110772,"Nick Zandusky","Home Office",East,"Office Supplies",Labels,18.496,8,6.2424,0.2,33.75,2016-11-20,2016-11-24,2016,11
+CA-2016-110772,"Nick Zandusky","Home Office",East,Technology,Accessories,255.984,2,54.3966,0.2,21.25,2016-11-20,2016-11-24,2016,11
+CA-2016-110772,"Nick Zandusky","Home Office",East,Furniture,Bookcases,86.97,3,-48.7032,0.5,-56.00000000000001,2016-11-20,2016-11-24,2016,11
+CA-2014-111451,"Kelly Lampkin",Corporate,West,Furniture,Furnishings,300.416,8,78.8592,0.2,26.25,2014-12-26,2014-12-28,2014,12
+CA-2014-111451,"Kelly Lampkin",Corporate,West,Furniture,Chairs,230.352,3,20.1558,0.2,8.75,2014-12-26,2014-12-28,2014,12
+CA-2014-111451,"Kelly Lampkin",Corporate,West,Furniture,Furnishings,218.352,3,-24.5646,0.2,-11.249999999999998,2014-12-26,2014-12-28,2014,12
+CA-2014-111451,"Kelly Lampkin",Corporate,West,"Office Supplies",Binders,78.6,5,-62.88,0.7,-80,2014-12-26,2014-12-28,2014,12
+CA-2014-111451,"Kelly Lampkin",Corporate,West,"Office Supplies",Fasteners,27.552,3,9.2988,0.2,33.75,2014-12-26,2014-12-28,2014,12
+CA-2016-142545,"Jonathan Doherty",Corporate,East,"Office Supplies",Paper,32.4,5,15.552,0,48,2016-10-28,2016-03-11,2016,10
+CA-2016-142545,"Jonathan Doherty",Corporate,East,"Office Supplies",Paper,56.91,3,27.3168,0,48.00000000000001,2016-10-28,2016-03-11,2016,10
+CA-2016-142545,"Jonathan Doherty",Corporate,East,Furniture,Furnishings,77.6,4,38.024,0,49.00000000000001,2016-10-28,2016-03-11,2016,10
+CA-2016-142545,"Jonathan Doherty",Corporate,East,"Office Supplies",Binders,14.28,1,6.5688,0,46.00000000000001,2016-10-28,2016-03-11,2016,10
+US-2017-152380,"Jonathan Howell",Consumer,Central,Furniture,Tables,219.075,3,-131.445,0.5,-60,2017-11-19,2017-11-23,2017,11
+CA-2015-144253,"Alan Schoenberger",Corporate,East,Furniture,Furnishings,26.8,2,12.864,0,48.00000000000001,2015-04-05,2015-09-05,2015,4
+CA-2014-130960,"Ken Brennan",Corporate,Central,"Office Supplies",Art,9.84,3,2.8536,0,29.000000000000004,2014-12-30,2015-04-01,2014,12
+CA-2014-111003,"Corey Roper","Home Office",East,"Office Supplies",Binders,45.48,3,20.9208,0,46,2014-01-06,2014-06-06,2014,1
+CA-2014-111003,"Corey Roper","Home Office",East,"Office Supplies",Art,289.2,6,83.868,0,28.999999999999996,2014-01-06,2014-06-06,2014,1
+CA-2017-126774,"Shahid Hopkins",Consumer,South,"Office Supplies",Art,4.89,1,2.0049,0,41,2017-04-15,2017-04-17,2017,4
+CA-2016-142902,"Ben Peterman",Corporate,West,Furniture,Furnishings,15.136,4,3.5948,0.2,23.75,2016-12-09,2016-09-14,2016,12
+CA-2016-142902,"Ben Peterman",Corporate,West,Furniture,Chairs,466.768,2,52.5114,0.2,11.250000000000002,2016-12-09,2016-09-14,2016,12
+CA-2016-142902,"Ben Peterman",Corporate,West,Furniture,Furnishings,15.232,1,1.7136,0.2,11.25,2016-12-09,2016-09-14,2016,12
+CA-2016-142902,"Ben Peterman",Corporate,West,"Office Supplies",Labels,6.264,3,2.0358,0.2,32.5,2016-12-09,2016-09-14,2016,12
+CA-2014-120887,"Thomas Seio",Corporate,East,Furniture,Furnishings,87.54,3,37.6422,0,43,2014-09-27,2014-03-10,2014,9
+CA-2014-167850,"Andy Gerbode",Corporate,South,Technology,Phones,178.384,2,22.298,0.2,12.5,2014-09-08,2014-08-16,2014,9
+CA-2014-167850,"Andy Gerbode",Corporate,South,"Office Supplies",Paper,15.552,3,5.4432,0.2,35,2014-09-08,2014-08-16,2014,9
+CA-2014-164259,"Sung Pak",Corporate,East,"Office Supplies",Art,99.136,4,8.6744,0.2,8.75,2014-12-28,2014-12-30,2014,12
+CA-2014-164973,"Nathan Mautz","Home Office",East,Furniture,Chairs,135.882,1,24.1568,0.1,17.77777777777778,2014-04-11,2014-09-11,2014,4
+CA-2014-164973,"Nathan Mautz","Home Office",East,Technology,Machines,3991.98,2,1995.99,0,50,2014-04-11,2014-09-11,2014,4
+CA-2014-164973,"Nathan Mautz","Home Office",East,Technology,Phones,275.94,6,80.0226,0,28.999999999999996,2014-04-11,2014-09-11,2014,4
+CA-2014-164973,"Nathan Mautz","Home Office",East,Technology,Accessories,360,4,129.6,0,36,2014-04-11,2014-09-11,2014,4
+CA-2014-164973,"Nathan Mautz","Home Office",East,"Office Supplies",Storage,43.57,1,13.071,0,30,2014-04-11,2014-09-11,2014,4
+CA-2014-156601,"Frank Atkinson",Corporate,West,"Office Supplies",Fasteners,7.16,2,3.58,0,50,2014-09-19,2014-09-24,2014,9
+CA-2016-162138,"Grace Kelly",Corporate,West,"Office Supplies",Binders,251.52,6,81.744,0.2,32.5,2016-04-23,2016-04-27,2016,4
+CA-2016-162138,"Grace Kelly",Corporate,West,Technology,Accessories,99.99,1,34.9965,0,35,2016-04-23,2016-04-27,2016,4
+CA-2017-153339,"Don Jones",Corporate,South,Furniture,Furnishings,15.992,1,0.9995,0.2,6.25,2017-03-11,2017-05-11,2017,3
+US-2016-141544,"Patrick O'Brill",Consumer,East,Technology,Phones,290.898,3,-67.8762,0.4,-23.333333333333332,2016-08-30,2016-01-09,2016,8
+US-2016-141544,"Patrick O'Brill",Consumer,East,"Office Supplies",Storage,54.224,2,3.389,0.2,6.25,2016-08-30,2016-01-09,2016,8
+US-2016-141544,"Patrick O'Brill",Consumer,East,Furniture,Chairs,786.744,4,-258.5016,0.3,-32.857142857142854,2016-08-30,2016-01-09,2016,8
+US-2016-141544,"Patrick O'Brill",Consumer,East,"Office Supplies",Labels,100.24,10,33.831,0.2,33.75,2016-08-30,2016-01-09,2016,8
+US-2016-141544,"Patrick O'Brill",Consumer,East,"Office Supplies",Binders,37.764,6,-27.6936,0.7,-73.33333333333333,2016-08-30,2016-01-09,2016,8
+US-2016-150147,"John Lucas",Consumer,East,Technology,Phones,82.8,2,-20.7,0.4,-25,2016-04-25,2016-04-29,2016,4
+US-2016-150147,"John Lucas",Consumer,East,"Office Supplies",Binders,20.724,2,-13.816,0.7,-66.66666666666667,2016-04-25,2016-04-29,2016,4
+US-2016-150147,"John Lucas",Consumer,East,"Office Supplies",Binders,4.896,3,-3.4272,0.7,-70,2016-04-25,2016-04-29,2016,4
+CA-2015-137946,"Doug Bickford",Consumer,West,"Office Supplies",Binders,4.752,1,1.6038,0.2,33.75,2015-01-09,2015-04-09,2015,1
+CA-2015-137946,"Doug Bickford",Consumer,West,Technology,Copiers,959.984,2,335.9944,0.2,35,2015-01-09,2015-04-09,2015,1
+CA-2015-137946,"Doug Bickford",Consumer,West,"Office Supplies",Binders,14.368,4,4.49,0.2,31.25,2015-01-09,2015-04-09,2015,1
+CA-2014-129924,"Alyssa Crouse",Corporate,West,"Office Supplies",Binders,7.712,2,2.7956,0.2,36.25,2014-12-07,2014-07-17,2014,12
+CA-2014-129924,"Alyssa Crouse",Corporate,West,Furniture,Tables,698.352,3,-17.4588,0.2,-2.5,2014-12-07,2014-07-17,2014,12
+CA-2014-122336,"Jonathan Doherty",Corporate,East,"Office Supplies",Art,17.856,4,1.116,0.2,6.25,2014-04-13,2014-04-17,2014,4
+CA-2014-122336,"Jonathan Doherty",Corporate,East,"Office Supplies",Binders,509.97,10,-407.976,0.7,-80,2014-04-13,2014-04-17,2014,4
+CA-2014-122336,"Jonathan Doherty",Corporate,East,"Office Supplies",Fasteners,30.992,13,10.0724,0.2,32.5,2014-04-13,2014-04-17,2014,4
+US-2015-120712,"Chad Sievert",Consumer,Central,"Office Supplies",Storage,88.8,4,-2.22,0.2,-2.5,2015-12-20,2015-12-24,2015,12
+CA-2017-169901,"Clay Cheatham",Consumer,West,Technology,Phones,47.976,3,4.7976,0.2,10,2017-06-15,2017-06-19,2017,6
+CA-2017-134306,"Tamara Dahlen",Consumer,East,"Office Supplies",Art,7.56,3,3.0996,0,41,2017-08-07,2017-12-07,2017,8
+CA-2017-134306,"Tamara Dahlen",Consumer,East,"Office Supplies",Paper,24.56,2,11.5432,0,47,2017-08-07,2017-12-07,2017,8
+CA-2017-134306,"Tamara Dahlen",Consumer,East,"Office Supplies",Art,12.96,2,4.1472,0,31.999999999999996,2017-08-07,2017-12-07,2017,8
+CA-2016-129714,"Adam Bellavance","Home Office",East,Technology,Accessories,6.79,1,2.3086,0,34,2016-01-09,2016-03-09,2016,1
+CA-2016-129714,"Adam Bellavance","Home Office",East,"Office Supplies",Paper,24.56,2,11.5432,0,47,2016-01-09,2016-03-09,2016,1
+CA-2016-129714,"Adam Bellavance","Home Office",East,"Office Supplies",Binders,3.048,1,1.0668,0.2,35,2016-01-09,2016-03-09,2016,1
+CA-2016-129714,"Adam Bellavance","Home Office",East,"Office Supplies",Paper,49.12,4,23.0864,0,47,2016-01-09,2016-03-09,2016,1
+CA-2016-129714,"Adam Bellavance","Home Office",East,"Office Supplies",Binders,4355.168,4,1415.4296,0.2,32.5,2016-01-09,2016-03-09,2016,1
+CA-2016-138520,"Jeremy Lonsdale",Consumer,East,Furniture,Bookcases,388.704,6,-4.8588,0.2,-1.25,2016-08-04,2016-04-13,2016,8
+CA-2016-138520,"Jeremy Lonsdale",Consumer,East,"Office Supplies",Envelopes,8.26,2,3.7996,0,46,2016-08-04,2016-04-13,2016,8
+CA-2016-138520,"Jeremy Lonsdale",Consumer,East,"Office Supplies",Art,17.04,4,6.9864,0,41,2016-08-04,2016-04-13,2016,8
+CA-2016-138520,"Jeremy Lonsdale",Consumer,East,"Office Supplies",Paper,34.4,5,15.824,0,46,2016-08-04,2016-04-13,2016,8
+CA-2016-130001,"Heather Kirkland",Corporate,South,"Office Supplies",Paper,36.24,5,11.325,0.2,31.249999999999993,2016-04-23,2016-04-28,2016,4
+CA-2017-155698,"Victoria Brennan",Corporate,South,"Office Supplies",Appliances,647.84,8,168.4384,0,26,2017-08-03,2017-11-03,2017,8
+CA-2017-155698,"Victoria Brennan",Corporate,South,"Office Supplies",Labels,20.7,2,9.936,0,48.00000000000001,2017-08-03,2017-11-03,2017,8
+CA-2017-144904,"Katrina Willman",Consumer,East,"Office Supplies",Labels,20.7,2,9.936,0,48.00000000000001,2017-09-25,2017-01-10,2017,9
+CA-2017-144904,"Katrina Willman",Consumer,East,Furniture,Chairs,488.646,3,86.8704,0.1,17.77777777777778,2017-09-25,2017-01-10,2017,9
+CA-2017-144904,"Katrina Willman",Consumer,East,"Office Supplies",Art,5.56,2,1.4456,0,26,2017-09-25,2017-01-10,2017,9
+CA-2017-144904,"Katrina Willman",Consumer,East,Furniture,Furnishings,47.12,8,20.7328,0,44.00000000000001,2017-09-25,2017-01-10,2017,9
+CA-2014-123344,"Julia Dunbar",Consumer,West,"Office Supplies",Storage,211.96,4,8.4784,0,4,2014-09-24,2014-09-29,2014,9
+CA-2016-155516,"Michael Kennedy",Corporate,East,"Office Supplies",Binders,23.2,4,10.44,0,45,2016-10-21,2016-10-21,2016,10
+CA-2016-155516,"Michael Kennedy",Corporate,East,"Office Supplies",Supplies,7.36,2,0.1472,0,2,2016-10-21,2016-10-21,2016,10
+CA-2016-155516,"Michael Kennedy",Corporate,East,"Office Supplies",Storage,104.79,7,29.3412,0,27.999999999999996,2016-10-21,2016-10-21,2016,10
+CA-2016-155516,"Michael Kennedy",Corporate,East,Furniture,Bookcases,1043.92,4,271.4192,0,25.999999999999996,2016-10-21,2016-10-21,2016,10
+CA-2017-104745,"Guy Thornton",Consumer,Central,"Office Supplies",Paper,25.92,5,9.396,0.2,36.25,2017-05-29,2017-04-06,2017,5
+CA-2017-104745,"Guy Thornton",Consumer,Central,"Office Supplies",Storage,53.424,3,4.6746,0.2,8.75,2017-05-29,2017-04-06,2017,5
+US-2014-119137,"Arthur Gainer",Consumer,West,"Office Supplies",Binders,8.16,5,-5.712,0.7,-70,2014-07-23,2014-07-27,2014,7
+US-2014-119137,"Arthur Gainer",Consumer,West,Technology,Accessories,1023.936,8,179.1888,0.2,17.5,2014-07-23,2014-07-27,2014,7
+US-2014-119137,"Arthur Gainer",Consumer,West,"Office Supplies",Art,9.24,1,0.924,0.2,10,2014-07-23,2014-07-27,2014,7
+US-2014-119137,"Arthur Gainer",Consumer,West,Technology,Accessories,479.04,10,-29.94,0.2,-6.25,2014-07-23,2014-07-27,2014,7
+US-2016-134656,"Muhammed MacIntyre",Corporate,Central,"Office Supplies",Paper,99.136,4,30.98,0.2,31.25,2016-09-28,2016-01-10,2016,9
+US-2017-134481,"Allen Rosenblatt",Corporate,East,Furniture,Tables,1488.424,7,-297.6848,0.3,-20,2017-08-27,2017-01-09,2017,8
+CA-2015-130792,"Russell Applegate",Consumer,Central,"Office Supplies",Storage,23.832,3,2.6811,0.2,11.249999999999998,2015-04-28,2015-05-05,2015,4
+CA-2016-134775,"Alejandro Savely",Corporate,West,"Office Supplies",Paper,50.96,7,25.48,0,50,2016-10-28,2016-10-29,2016,10
+CA-2016-134775,"Alejandro Savely",Corporate,West,"Office Supplies",Binders,49.536,3,17.3376,0.2,35,2016-10-28,2016-10-29,2016,10
+CA-2015-125395,"Laura Armstrong",Corporate,Central,Technology,Accessories,41.9,2,8.799,0,21,2015-06-26,2015-06-29,2015,6
+US-2015-168935,"Denny Ordway",Consumer,South,Furniture,Tables,375.4575,3,-157.0095,0.45,-41.81818181818182,2015-11-27,2015-02-12,2015,11
+US-2015-168935,"Denny Ordway",Consumer,South,Technology,Accessories,83.976,3,-1.0497,0.2,-1.25,2015-11-27,2015-02-12,2015,11
+CA-2015-122756,"Dean Katz",Corporate,East,Technology,Machines,482.34,4,-337.638,0.7,-70,2015-03-12,2015-07-12,2015,3
+CA-2015-122756,"Dean Katz",Corporate,East,Furniture,Furnishings,2.96,1,0.777,0.2,26.25,2015-03-12,2015-07-12,2015,3
+CA-2014-115973,"Nathan Gelder",Consumer,East,"Office Supplies",Art,2.624,1,0.4264,0.2,16.25,2014-11-24,2014-11-26,2014,11
+CA-2017-101798,"Mike Vittorini",Consumer,East,"Office Supplies",Binders,23.36,4,7.884,0.2,33.75,2017-11-12,2017-12-15,2017,11
+CA-2017-101798,"Mike Vittorini",Consumer,East,Technology,Accessories,39.98,2,13.5932,0,34,2017-11-12,2017-12-15,2017,11
+US-2014-135972,"Jack Garza",Consumer,West,Technology,Phones,246.384,2,27.7182,0.2,11.25,2014-09-21,2014-09-23,2014,9
+US-2014-135972,"Jack Garza",Consumer,West,Technology,Copiers,1799.97,3,701.9883,0,38.99999999999999,2014-09-21,2014-09-23,2014,9
+CA-2017-102946,"Victor Preis","Home Office",West,"Office Supplies",Binders,75.792,3,25.5798,0.2,33.75,2017-06-30,2017-05-07,2017,6
+CA-2017-165603,"Saphhira Shifley",Corporate,East,"Office Supplies",Storage,49.96,2,9.4924,0,19,2017-10-17,2017-10-19,2017,10
+CA-2017-165603,"Saphhira Shifley",Corporate,East,"Office Supplies",Paper,12.96,2,6.2208,0,47.99999999999999,2017-10-17,2017-10-19,2017,10
+CA-2015-122259,"Harold Pawlan","Home Office",Central,"Office Supplies",Supplies,70.12,4,21.036,0,30,2015-10-31,2015-04-11,2015,10
+CA-2016-108987,"Anna Gayman",Consumer,Central,"Office Supplies",Storage,35.952,3,3.5952,0.2,10,2016-08-09,2016-10-09,2016,8
+CA-2016-108987,"Anna Gayman",Consumer,Central,Furniture,Bookcases,2396.2656,4,-317.1528,0.32,-13.23529411764706,2016-08-09,2016-10-09,2016,8
+CA-2016-108987,"Anna Gayman",Consumer,Central,"Office Supplies",Storage,131.136,4,-32.784,0.2,-25,2016-08-09,2016-10-09,2016,8
+CA-2016-108987,"Anna Gayman",Consumer,Central,Technology,Accessories,57.584,2,0.7198,0.2,1.25,2016-08-09,2016-10-09,2016,8
+CA-2014-113166,"Luke Foster",Consumer,South,"Office Supplies",Paper,9.568,2,3.4684,0.2,36.25,2014-12-24,2014-12-26,2014,12
+CA-2014-155208,"Stephanie Phelps",Corporate,South,"Office Supplies",Art,39.072,6,9.768,0.2,25,2014-04-16,2014-04-20,2014,4
+CA-2017-117933,"Roy Französisch",Consumer,East,"Office Supplies",Appliances,35.91,3,9.6957,0,27,2017-12-24,2017-12-29,2017,12
+CA-2017-117457,"Keith Herrera",Consumer,West,Technology,Accessories,179.95,5,37.7895,0,21,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,Technology,Copiers,1199.976,3,434.9913,0.2,36.25,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,"Office Supplies",Paper,27.15,5,13.3035,0,49,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,Furniture,Tables,1004.024,7,-112.9527,0.2,-11.249999999999998,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,"Office Supplies",Paper,9.68,1,4.6464,0,48,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,"Office Supplies",Labels,28.35,9,13.608,0,48,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,"Office Supplies",Paper,55.98,1,27.4302,0,49,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,Furniture,Bookcases,1336.829,13,31.4548,0.15,2.3529411764705883,2017-08-12,2017-12-12,2017,8
+CA-2017-117457,"Keith Herrera",Consumer,West,Furniture,Chairs,113.568,2,-18.4548,0.2,-16.25,2017-08-12,2017-12-12,2017,8
+CA-2017-142636,"Kimberly Carter",Corporate,West,"Office Supplies",Paper,139.86,7,65.7342,0,47,2017-03-11,2017-07-11,2017,3
+CA-2017-142636,"Kimberly Carter",Corporate,West,Furniture,Chairs,307.136,4,26.8744,0.2,8.75,2017-03-11,2017-07-11,2017,3
+CA-2017-122105,"Caroline Jumper",Consumer,West,"Office Supplies",Art,95.92,8,25.8984,0,26.999999999999996,2017-06-24,2017-06-28,2017,6
+CA-2016-148796,"Philip Brown",Consumer,West,Furniture,Chairs,383.8,5,38.38,0.2,10,2016-04-14,2016-04-18,2016,4
+CA-2017-154816,"Victoria Brennan",Corporate,South,"Office Supplies",Paper,5.78,1,2.8322,0,48.99999999999999,2017-06-11,2017-10-11,2017,6
+CA-2017-110478,"Sung Pak",Corporate,West,"Office Supplies",Art,9.32,4,2.7028,0,28.999999999999996,2017-04-03,2017-09-03,2017,4
+CA-2017-110478,"Sung Pak",Corporate,West,"Office Supplies",Envelopes,15.25,1,7.015,0,46,2017-04-03,2017-09-03,2017,4
+CA-2014-142048,"Joel Eaton",Consumer,West,Technology,Accessories,196.752,6,56.5662,0.2,28.749999999999996,2014-06-22,2014-06-25,2014,6
+CA-2017-125388,"Michael Paige",Corporate,East,Furniture,Furnishings,56.56,4,14.7056,0,26,2017-10-19,2017-10-23,2017,10
+CA-2017-125388,"Michael Paige",Corporate,East,"Office Supplies",Storage,32.7,3,8.502,0,26,2017-10-19,2017-10-23,2017,10
+CA-2017-155705,"Natalie Fritzler",Consumer,South,Furniture,Chairs,866.4,4,225.264,0,26,2017-08-21,2017-08-23,2017,8
+CA-2017-149160,"Janet Molinari",Corporate,Central,Furniture,Furnishings,28.4,2,11.076,0,39,2017-11-23,2017-11-26,2017,11
+CA-2017-149160,"Janet Molinari",Corporate,Central,"Office Supplies",Binders,287.92,8,138.2016,0,48.00000000000001,2017-11-23,2017-11-26,2017,11
+CA-2014-101476,"Shirley Daniels","Home Office",East,Technology,Machines,69.99,1,30.0957,0,43.00000000000001,2014-12-09,2014-09-13,2014,12
+CA-2017-152275,"Ken Heidel",Corporate,Central,"Office Supplies",Art,6.672,6,0.5004,0.2,7.5,2017-01-10,2017-08-10,2017,1
+US-2016-123750,"Ross Baird","Home Office",South,"Office Supplies",Binders,189.588,2,-145.3508,0.7,-76.66666666666666,2016-04-15,2016-04-21,2016,4
+US-2016-123750,"Ross Baird","Home Office",South,Technology,Accessories,408.744,7,76.6395,0.2,18.749999999999996,2016-04-15,2016-04-21,2016,4
+US-2016-123750,"Ross Baird","Home Office",South,Technology,Accessories,291.96,5,54.7425,0.2,18.75,2016-04-15,2016-04-21,2016,4
+US-2016-123750,"Ross Baird","Home Office",South,"Office Supplies",Storage,4.768,2,-0.7748,0.2,-16.25,2016-04-15,2016-04-21,2016,4
+CA-2016-127369,"Dave Brooks",Consumer,East,"Office Supplies",Storage,714.3,5,207.147,0,28.999999999999996,2016-06-06,2016-07-06,2016,6
+US-2014-150574,"Mike Kennedy",Consumer,South,"Office Supplies",Binders,4.812,2,-3.6892,0.7,-76.66666666666666,2014-12-19,2014-12-25,2014,12
+US-2014-150574,"Mike Kennedy",Consumer,South,Technology,Accessories,247.8,5,-18.585,0.2,-7.5,2014-12-19,2014-12-25,2014,12
+CA-2016-147375,"Philisse Overcash","Home Office",Central,Technology,Machines,1007.979,3,43.1991,0.3,4.285714285714286,2016-12-06,2016-06-14,2016,12
+CA-2016-147375,"Philisse Overcash","Home Office",Central,"Office Supplies",Paper,313.488,7,113.6394,0.2,36.25,2016-12-06,2016-06-14,2016,12
+CA-2017-130043,"Brenda Bowman",Corporate,Central,"Office Supplies",Paper,31.872,8,11.5536,0.2,36.25,2017-09-15,2017-09-19,2017,9
+CA-2017-157252,"Cynthia Voltz",Corporate,East,Furniture,Chairs,207.846,3,2.3094,0.1,1.1111111111111112,2017-01-20,2017-01-23,2017,1
+CA-2016-115756,"Pete Kriz",Consumer,Central,Furniture,Furnishings,12.22,1,3.666,0,30,2016-05-09,2016-07-09,2016,5
+CA-2016-115756,"Pete Kriz",Consumer,Central,"Office Supplies",Storage,194.94,3,23.3928,0,12.000000000000002,2016-05-09,2016-07-09,2016,5
+CA-2016-115756,"Pete Kriz",Consumer,Central,"Office Supplies",Storage,70.95,3,20.5755,0,29.000000000000004,2016-05-09,2016-07-09,2016,5
+CA-2016-115756,"Pete Kriz",Consumer,Central,Furniture,Chairs,242.94,3,29.1528,0,12,2016-05-09,2016-07-09,2016,5
+CA-2016-115756,"Pete Kriz",Consumer,Central,"Office Supplies",Labels,22.05,7,10.584,0,48,2016-05-09,2016-07-09,2016,5
+CA-2017-154214,"Troy Blackwell",Consumer,Central,Furniture,Furnishings,2.91,1,1.3677,0,47,2017-03-20,2017-03-25,2017,3
+CA-2016-166674,"Raymond Buch",Consumer,East,"Office Supplies",Art,59.52,3,15.4752,0,25.999999999999996,2016-01-04,2016-03-04,2016,1
+CA-2016-166674,"Raymond Buch",Consumer,East,"Office Supplies",Storage,161.94,3,9.7164,0,6.000000000000001,2016-01-04,2016-03-04,2016,1
+CA-2016-166674,"Raymond Buch",Consumer,East,"Office Supplies",Art,263.88,6,71.2476,0,27,2016-01-04,2016-03-04,2016,1
+CA-2016-166674,"Raymond Buch",Consumer,East,"Office Supplies",Art,30.48,3,7.9248,0,26,2016-01-04,2016-03-04,2016,1
+CA-2016-166674,"Raymond Buch",Consumer,East,"Office Supplies",Art,9.84,3,2.8536,0,29.000000000000004,2016-01-04,2016-03-04,2016,1
+CA-2016-166674,"Raymond Buch",Consumer,East,Technology,Phones,35.12,4,9.1312,0,26,2016-01-04,2016-03-04,2016,1
+CA-2017-147277,"Ed Braxton",Corporate,East,Furniture,Tables,284.364,2,-75.8304,0.4,-26.666666666666668,2017-10-20,2017-10-24,2017,10
+CA-2017-147277,"Ed Braxton",Corporate,East,"Office Supplies",Storage,665.408,2,66.5408,0.2,10,2017-10-20,2017-10-24,2017,10
+CA-2016-100153,"Ken Heidel",Corporate,Central,Technology,Accessories,63.88,4,24.9132,0,38.99999999999999,2016-12-13,2016-12-17,2016,12
+US-2014-110674,"Sanjit Chand",Consumer,West,Furniture,Chairs,129.568,2,-24.294,0.2,-18.75,2014-12-02,2014-02-18,2014,12
+US-2016-157945,"Natalie Fritzler",Consumer,Central,Furniture,Chairs,747.558,3,-96.1146,0.3,-12.857142857142856,2016-09-26,2016-01-10,2016,9
+US-2016-157945,"Natalie Fritzler",Consumer,Central,"Office Supplies",Envelopes,8.928,2,3.348,0.2,37.49999999999999,2016-09-26,2016-01-10,2016,9
+CA-2015-109638,"Joseph Holt",Consumer,West,"Office Supplies",Appliances,103.92,4,36.372,0,35,2015-12-15,2015-12-22,2015,12
+CA-2015-109638,"Joseph Holt",Consumer,West,Technology,Accessories,899.91,9,377.9622,0,42,2015-12-15,2015-12-22,2015,12
+CA-2015-109638,"Joseph Holt",Consumer,West,"Office Supplies",Binders,51.312,3,18.6006,0.2,36.25000000000001,2015-12-15,2015-12-22,2015,12
+CA-2016-109869,"Tanja Norvell","Home Office",West,Furniture,Furnishings,23.56,5,7.068,0.2,30,2016-04-22,2016-04-29,2016,4
+CA-2016-109869,"Tanja Norvell","Home Office",West,Furniture,Tables,1272.63,6,-814.4832,0.5,-63.99999999999999,2016-04-22,2016-04-29,2016,4
+CA-2016-109869,"Tanja Norvell","Home Office",West,"Office Supplies",Binders,28.485,5,-20.889,0.7,-73.33333333333333,2016-04-22,2016-04-29,2016,4
+CA-2016-109869,"Tanja Norvell","Home Office",West,"Office Supplies",Supplies,185.376,2,-34.758,0.2,-18.75,2016-04-22,2016-04-29,2016,4
+CA-2016-109869,"Tanja Norvell","Home Office",West,"Office Supplies",Appliances,78.272,2,5.8704,0.2,7.5,2016-04-22,2016-04-29,2016,4
+CA-2017-154907,"David Smith",Corporate,Central,Furniture,Bookcases,205.3328,2,-36.2352,0.32,-17.647058823529413,2017-03-31,2017-04-04,2017,3
+CA-2015-154144,"Maya Herman",Corporate,East,"Office Supplies",Paper,55.48,1,26.6304,0,48.00000000000001,2015-12-20,2015-12-24,2015,12
+CA-2014-144666,"Jeremy Pistek",Consumer,West,"Office Supplies",Storage,340.92,3,3.4092,0,0.9999999999999999,2014-09-11,2014-11-11,2014,9
+CA-2014-144666,"Jeremy Pistek",Consumer,West,Furniture,Bookcases,222.666,2,10.4784,0.15,4.7058823529411775,2014-09-11,2014-11-11,2014,9
+CA-2014-144666,"Jeremy Pistek",Consumer,West,Technology,Phones,703.968,4,87.996,0.2,12.5,2014-09-11,2014-11-11,2014,9
+CA-2014-144666,"Jeremy Pistek",Consumer,West,"Office Supplies",Storage,92.52,6,24.9804,0,27,2014-09-11,2014-11-11,2014,9
+CA-2014-144666,"Jeremy Pistek",Consumer,West,"Office Supplies",Paper,94.85,5,45.528,0,48.00000000000001,2014-09-11,2014-11-11,2014,9
+CA-2016-103891,"Kristen Hastings",Corporate,West,Technology,Phones,95.76,6,7.182,0.2,7.5,2016-12-07,2016-07-19,2016,12
+CA-2016-152632,"Jeremy Ellison",Consumer,East,Furniture,Furnishings,40.2,3,19.296,0,47.99999999999999,2016-10-27,2016-02-11,2016,10
+CA-2016-100790,"John Grady",Corporate,East,"Office Supplies",Art,14.7,5,6.615,0,45,2016-06-26,2016-02-07,2016,6
+CA-2016-100790,"John Grady",Corporate,East,"Office Supplies",Storage,704.25,5,84.51,0,12.000000000000002,2016-06-26,2016-02-07,2016,6
+CA-2014-134677,"Xylona Preis",Consumer,West,Technology,Accessories,9.09,3,1.9089,0,21.000000000000004,2014-06-10,2014-10-10,2014,6
+CA-2014-127691,"Erin Mull",Consumer,East,"Office Supplies",Art,5.96,2,1.6688,0,28.000000000000004,2014-07-22,2014-07-27,2014,7
+CA-2014-127691,"Erin Mull",Consumer,East,Technology,Accessories,159.98,2,57.5928,0,36,2014-07-22,2014-07-27,2014,7
+CA-2017-140963,"Michelle Tran","Home Office",West,"Office Supplies",Labels,29.6,2,14.8,0,50,2017-10-06,2017-06-13,2017,10
+CA-2017-140963,"Michelle Tran","Home Office",West,Furniture,Bookcases,514.165,5,-30.245,0.15,-5.882352941176471,2017-10-06,2017-06-13,2017,10
+CA-2017-140963,"Michelle Tran","Home Office",West,Technology,Phones,279.96,5,17.4975,0.2,6.25,2017-10-06,2017-06-13,2017,10
+CA-2014-154627,"Sue Ann Reed",Consumer,Central,Technology,Phones,2735.952,6,341.994,0.2,12.5,2014-10-29,2014-10-31,2014,10
+CA-2014-133753,"Carl Weiss","Home Office",Central,Technology,Phones,7.992,1,0.5994,0.2,7.500000000000001,2014-09-06,2014-06-13,2014,9
+CA-2014-133753,"Carl Weiss","Home Office",Central,Technology,Accessories,63.984,2,10.3974,0.2,16.249999999999996,2014-09-06,2014-06-13,2014,9
+CA-2014-133753,"Carl Weiss","Home Office",Central,"Office Supplies",Art,70.368,2,6.1572,0.2,8.75,2014-09-06,2014-06-13,2014,9
+CA-2014-113362,"Astrea Jones",Consumer,East,"Office Supplies",Storage,449.15,5,8.983,0,2.0000000000000004,2014-09-14,2014-09-19,2014,9
+CA-2014-113362,"Astrea Jones",Consumer,East,"Office Supplies",Envelopes,11.07,3,5.0922,0,46,2014-09-14,2014-09-19,2014,9
+CA-2016-169166,"Sonia Sunley",Consumer,West,Technology,Accessories,93.98,2,13.1572,0,13.999999999999998,2016-09-05,2016-05-14,2016,9
+US-2016-120929,"Rose O'Brian",Consumer,South,Furniture,Tables,189.882,3,-94.941,0.4,-50,2016-03-18,2016-03-21,2016,3
+CA-2015-134782,"Maribeth Dona",Consumer,South,"Office Supplies",Envelopes,105.42,2,51.6558,0,49,2015-12-27,2015-12-31,2015,12
+CA-2016-126158,"Sanjit Chand",Consumer,West,"Office Supplies",Binders,119.616,8,40.3704,0.2,33.75,2016-07-25,2016-07-31,2016,7
+CA-2016-126158,"Sanjit Chand",Consumer,West,Furniture,Furnishings,255.76,4,81.8432,0,32,2016-07-25,2016-07-31,2016,7
+CA-2016-126158,"Sanjit Chand",Consumer,West,Furniture,Chairs,241.568,2,18.1176,0.2,7.5,2016-07-25,2016-07-31,2016,7
+CA-2016-126158,"Sanjit Chand",Consumer,West,Furniture,Furnishings,69.3,9,22.869,0,33,2016-07-25,2016-07-31,2016,7
+US-2016-105578,"Maribeth Yedwab",Corporate,West,"Office Supplies",Binders,22.62,2,-15.08,0.7,-66.66666666666666,2016-05-30,2016-04-06,2016,5
+US-2016-105578,"Maribeth Yedwab",Corporate,West,"Office Supplies",Binders,14.952,2,-11.9616,0.7,-80,2016-05-30,2016-04-06,2016,5
+US-2016-105578,"Maribeth Yedwab",Corporate,West,Furniture,Chairs,801.568,2,50.098,0.2,6.25,2016-05-30,2016-04-06,2016,5
+US-2016-105578,"Maribeth Yedwab",Corporate,West,"Office Supplies",Binders,2.376,3,-1.9008,0.7,-80,2016-05-30,2016-04-06,2016,5
+US-2016-105578,"Maribeth Yedwab",Corporate,West,"Office Supplies",Paper,32.792,1,11.8871,0.2,36.25,2016-05-30,2016-04-06,2016,5
+CA-2017-134978,"Ed Braxton",Corporate,East,"Office Supplies",Binders,15.92,5,5.373,0.2,33.75,2017-12-11,2017-11-15,2017,12
+CA-2015-145352,"Christopher Martinez",Consumer,South,"Office Supplies",Art,2.74,1,0.7398,0,26.999999999999996,2015-03-16,2015-03-22,2015,3
+CA-2015-145352,"Christopher Martinez",Consumer,South,"Office Supplies",Art,8.34,3,2.1684,0,26,2015-03-16,2015-03-22,2015,3
+CA-2015-145352,"Christopher Martinez",Consumer,South,"Office Supplies",Storage,46.74,3,11.685,0,25,2015-03-16,2015-03-22,2015,3
+CA-2015-145352,"Christopher Martinez",Consumer,South,"Office Supplies",Binders,6354.95,5,3177.475,0,50,2015-03-16,2015-03-22,2015,3
+CA-2017-135307,"Lynn Smith",Consumer,Central,Furniture,Furnishings,126.3,3,40.416,0,32,2017-11-26,2017-11-27,2017,11
+CA-2017-135307,"Lynn Smith",Consumer,Central,Technology,Accessories,38.04,2,12.1728,0,32,2017-11-26,2017-11-27,2017,11
+CA-2016-106341,"Luke Foster",Consumer,East,"Office Supplies",Art,7.152,3,0.7152,0.2,10,2016-10-20,2016-10-23,2016,10
+CA-2017-163405,"Bradley Nguyen",Consumer,West,"Office Supplies",Art,6.63,3,1.7901,0,27,2017-12-21,2017-12-25,2017,12
+CA-2017-163405,"Bradley Nguyen",Consumer,West,"Office Supplies",Art,5.88,2,1.7052,0,29.000000000000004,2017-12-21,2017-12-25,2017,12
+CA-2017-127432,"Alan Dominguez","Home Office",West,Technology,Copiers,2999.95,5,1379.977,0,46.00000000000001,2017-01-22,2017-01-27,2017,1
+CA-2017-127432,"Alan Dominguez","Home Office",West,"Office Supplies",Storage,51.45,3,13.8915,0,27,2017-01-22,2017-01-27,2017,1
+CA-2017-127432,"Alan Dominguez","Home Office",West,"Office Supplies",Paper,11.96,2,5.382,0,44.99999999999999,2017-01-22,2017-01-27,2017,1
+CA-2017-127432,"Alan Dominguez","Home Office",West,"Office Supplies",Storage,1126.02,3,56.301,0,5,2017-01-22,2017-01-27,2017,1
+CA-2015-157812,"Dean Braden",Consumer,Central,Technology,Accessories,18.392,1,5.2877,0.2,28.750000000000004,2015-03-22,2015-03-26,2015,3
+CA-2015-157812,"Dean Braden",Consumer,Central,"Office Supplies",Storage,129.568,2,-25.9136,0.2,-20,2015-03-22,2015-03-26,2015,3
+CA-2017-145142,"Matt Connell",Corporate,Central,Furniture,Tables,210.98,2,21.098,0,10,2017-01-23,2017-01-25,2017,1
+US-2016-139486,"Logan Haushalter",Consumer,West,Technology,Phones,55.176,3,-12.4146,0.2,-22.5,2016-05-21,2016-05-23,2016,5
+US-2016-139486,"Logan Haushalter",Consumer,West,Technology,Accessories,66.26,2,27.1666,0,41,2016-05-21,2016-05-23,2016,5
+CA-2015-158792,"Brian Dahlen",Consumer,East,"Office Supplies",Fasteners,22.2,5,10.434,0,47,2015-12-26,2016-02-01,2015,12
+CA-2017-113558,"Patricia Hirasaki","Home Office",South,Furniture,Chairs,683.952,3,42.747,0.2,6.25,2017-10-21,2017-10-26,2017,10
+CA-2017-113558,"Patricia Hirasaki","Home Office",South,Furniture,Furnishings,45.696,3,5.1408,0.2,11.25,2017-10-21,2017-10-26,2017,10
+US-2015-138303,"Mike Gockenbach",Consumer,East,"Office Supplies",Storage,36.336,3,-7.2672,0.2,-20,2015-03-09,2015-07-09,2015,3
+US-2015-138303,"Mike Gockenbach",Consumer,East,"Office Supplies",Supplies,666.248,1,-149.9058,0.2,-22.499999999999996,2015-03-09,2015-07-09,2015,3
+US-2015-138303,"Mike Gockenbach",Consumer,East,"Office Supplies",Envelopes,52.512,6,19.692,0.2,37.5,2015-03-09,2015-07-09,2015,3
+CA-2015-102848,"Karen Bern",Corporate,West,Furniture,Chairs,190.72,1,11.92,0.2,6.25,2015-07-11,2015-09-11,2015,7
+US-2017-129441,"Jasper Cacioppo",Consumer,West,Furniture,Furnishings,47.94,3,2.397,0,5,2017-07-09,2017-11-09,2017,7
+CA-2016-168753,"Rob Lucas",Consumer,South,Technology,Phones,979.95,5,274.386,0,28.000000000000004,2016-05-29,2016-01-06,2016,5
+CA-2016-168753,"Rob Lucas",Consumer,South,"Office Supplies",Binders,22.75,5,11.375,0,50,2016-05-29,2016-01-06,2016,5
+CA-2016-126613,"Allen Armold",Consumer,West,"Office Supplies",Storage,16.768,2,1.4672,0.2,8.75,2016-10-07,2016-07-16,2016,10
+CA-2015-147851,"Mark Packer","Home Office",East,"Office Supplies",Binders,10.752,4,3.36,0.2,31.249999999999993,2015-03-12,2015-08-12,2015,3
+CA-2015-134894,"Darren Koutras",Consumer,South,"Office Supplies",Appliances,152.94,3,41.2938,0,26.999999999999996,2015-07-12,2015-11-12,2015,7
+CA-2015-134894,"Darren Koutras",Consumer,South,Furniture,Chairs,283.92,4,70.98,0,25,2015-07-12,2015-11-12,2015,7
+CA-2014-140795,"Bradley Drucker",Consumer,Central,Technology,Accessories,468.9,6,206.316,0,44,2014-01-02,2014-03-02,2014,1
+CA-2016-136924,"Erin Smith",Corporate,West,Technology,Phones,380.864,8,38.0864,0.2,10,2016-07-14,2016-07-17,2016,7
+US-2015-120161,"Liz MacKendrick",Consumer,East,"Office Supplies",Storage,646.776,9,-145.5246,0.2,-22.5,2015-12-18,2015-12-23,2015,12
+CA-2014-103849,"Paul Gonzalez",Consumer,Central,Technology,Accessories,58.112,2,7.264,0.2,12.5,2014-11-05,2014-05-16,2014,11
+CA-2014-103849,"Paul Gonzalez",Consumer,Central,Technology,Phones,100.792,1,6.2995,0.2,6.25,2014-11-05,2014-05-16,2014,11
+CA-2017-162929,"Adrian Shami","Home Office",East,"Office Supplies",Binders,41.28,6,13.932,0.2,33.75,2017-11-19,2017-11-22,2017,11
+CA-2017-162929,"Adrian Shami","Home Office",East,"Office Supplies",Paper,13.36,2,6.4128,0,48,2017-11-19,2017-11-22,2017,11
+CA-2015-113173,"Dean Katz",Corporate,Central,"Office Supplies",Storage,250.272,9,15.642,0.2,6.25,2015-11-15,2015-11-17,2015,11
+CA-2015-113173,"Dean Katz",Corporate,Central,"Office Supplies",Supplies,8.72,5,-1.744,0.2,-20,2015-11-15,2015-11-17,2015,11
+CA-2016-136406,"Bill Donatelli",Consumer,West,Furniture,Chairs,1121.568,2,0,0.2,0,2016-04-15,2016-04-17,2016,4
+CA-2017-112774,"Ryan Crowe",Consumer,South,Furniture,Furnishings,34.504,1,6.0382,0.2,17.5,2017-11-09,2017-12-09,2017,11
+CA-2017-101945,"Greg Tran",Consumer,Central,"Office Supplies",Fasteners,10.824,3,2.5707,0.2,23.75,2017-11-24,2017-11-28,2017,11
+CA-2017-100650,"Dean Katz",Corporate,West,"Office Supplies",Storage,1295.78,2,310.9872,0,24,2017-06-29,2017-03-07,2017,6
+CA-2014-155852,"Ashley Jarboe",Consumer,South,"Office Supplies",Art,19.456,4,3.4048,0.2,17.5,2014-03-03,2014-07-03,2014,3
+CA-2016-113243,"Olvera Toch",Consumer,West,"Office Supplies",Labels,20.7,2,9.936,0,48.00000000000001,2016-10-06,2016-06-15,2016,10
+CA-2016-113243,"Olvera Toch",Consumer,West,Furniture,Tables,1335.68,4,-217.048,0.2,-16.25,2016-10-06,2016-06-15,2016,10
+CA-2016-113243,"Olvera Toch",Consumer,West,"Office Supplies",Paper,32.4,5,15.552,0,48,2016-10-06,2016-06-15,2016,10
+CA-2017-118731,"Liz Pelletier",Consumer,West,Furniture,Furnishings,42.6,3,16.614,0,39,2017-11-20,2017-11-22,2017,11
+CA-2017-118731,"Liz Pelletier",Consumer,West,"Office Supplies",Binders,84.056,7,27.3182,0.2,32.5,2017-11-20,2017-11-22,2017,11
+CA-2014-145576,"Cynthia Arntzen",Consumer,South,"Office Supplies",Appliances,13,5,1.3,0.2,10,2014-09-14,2014-09-18,2014,9
+CA-2014-145576,"Cynthia Arntzen",Consumer,South,Furniture,Furnishings,13.128,3,3.7743,0.2,28.750000000000004,2014-09-14,2014-09-18,2014,9
+CA-2015-130736,"Jeremy Farry",Consumer,West,"Office Supplies",Fasteners,3.96,2,0,0,0,2015-07-12,2015-09-12,2015,7
+CA-2015-130736,"Jeremy Farry",Consumer,West,"Office Supplies",Labels,2.61,1,1.2006,0,46,2015-07-12,2015-09-12,2015,7
+CA-2017-137099,"Frank Preis",Consumer,West,Technology,Phones,374.376,3,46.797,0.2,12.5,2017-07-12,2017-10-12,2017,7
+CA-2017-156951,"Ellis Ballard",Corporate,West,"Office Supplies",Paper,91.84,8,45.0016,0,49,2017-01-10,2017-08-10,2017,1
+CA-2017-156951,"Ellis Ballard",Corporate,West,"Office Supplies",Binders,81.088,7,27.3672,0.2,33.75,2017-01-10,2017-08-10,2017,1
+CA-2017-156951,"Ellis Ballard",Corporate,West,"Office Supplies",Paper,19.44,3,9.3312,0,48.00000000000001,2017-01-10,2017-08-10,2017,1
+CA-2017-156951,"Ellis Ballard",Corporate,West,Furniture,Chairs,451.152,3,0,0.2,0,2017-01-10,2017-08-10,2017,1
+CA-2017-164826,"Jennifer Ferguson",Consumer,East,"Office Supplies",Labels,72.45,7,34.776,0,48.00000000000001,2017-12-28,2018-04-01,2017,12
+CA-2017-164826,"Jennifer Ferguson",Consumer,East,"Office Supplies",Fasteners,13.96,4,6.4216,0,46,2017-12-28,2018-04-01,2017,12
+CA-2017-164826,"Jennifer Ferguson",Consumer,East,"Office Supplies",Binders,33.264,7,11.2266,0.2,33.75,2017-12-28,2018-04-01,2017,12
+CA-2017-164826,"Jennifer Ferguson",Consumer,East,Technology,Phones,14.85,3,4.0095,0,27,2017-12-28,2018-04-01,2017,12
+CA-2016-127250,"Sarah Foster",Consumer,West,"Office Supplies",Art,8.82,3,2.3814,0,27,2016-03-11,2016-07-11,2016,3
+CA-2015-149713,"Trudy Glocke",Consumer,West,"Office Supplies",Paper,160.72,14,78.7528,0,48.99999999999999,2015-09-18,2015-09-22,2015,9
+CA-2015-149713,"Trudy Glocke",Consumer,West,"Office Supplies",Paper,19.92,4,9.7608,0,48.99999999999999,2015-09-18,2015-09-22,2015,9
+CA-2015-149713,"Trudy Glocke",Consumer,West,"Office Supplies",Supplies,7.3,2,2.19,0,30,2015-09-18,2015-09-22,2015,9
+CA-2017-118640,"Carlos Soltero",Consumer,Central,"Office Supplies",Storage,69.712,2,8.714,0.2,12.5,2017-07-20,2017-07-26,2017,7
+CA-2015-132906,"Charles Crestani",Consumer,West,"Office Supplies",Supplies,51.52,4,1.5456,0,3,2015-10-09,2015-09-14,2015,10
+CA-2017-145233,"Dianna Vittorini",Consumer,West,Technology,Phones,470.376,3,52.9173,0.2,11.25,2017-01-12,2017-05-12,2017,1
+CA-2017-145233,"Dianna Vittorini",Consumer,West,Technology,Phones,105.584,2,9.2386,0.2,8.75,2017-01-12,2017-05-12,2017,1
+CA-2017-145233,"Dianna Vittorini",Consumer,West,"Office Supplies",Appliances,31.152,3,3.5046,0.2,11.249999999999998,2017-01-12,2017-05-12,2017,1
+CA-2017-145233,"Dianna Vittorini",Consumer,West,"Office Supplies",Binders,6.783,7,-4.7481,0.7,-70,2017-01-12,2017-05-12,2017,1
+CA-2017-145233,"Dianna Vittorini",Consumer,West,Technology,Phones,406.368,4,30.4776,0.2,7.5,2017-01-12,2017-05-12,2017,1
+CA-2015-128139,"Bruce Degenhardt",Consumer,South,Furniture,Chairs,70.98,1,4.9686,0,7.000000000000001,2015-03-07,2015-09-07,2015,3
+CA-2015-128139,"Bruce Degenhardt",Consumer,South,"Office Supplies",Labels,294.93,3,144.5157,0,49.00000000000001,2015-03-07,2015-09-07,2015,3
+US-2016-156986,"Zuschuss Carroll",Consumer,West,Technology,Phones,84.784,2,-20.1362,0.2,-23.749999999999996,2016-03-20,2016-03-24,2016,3
+US-2016-156986,"Zuschuss Carroll",Consumer,West,"Office Supplies",Paper,20.736,4,7.2576,0.2,35,2016-03-20,2016-03-24,2016,3
+US-2016-156986,"Zuschuss Carroll",Consumer,West,"Office Supplies",Binders,16.821,3,-12.8961,0.7,-76.66666666666666,2016-03-20,2016-03-24,2016,3
+US-2016-156986,"Zuschuss Carroll",Consumer,West,"Office Supplies",Paper,10.368,2,3.6288,0.2,35,2016-03-20,2016-03-24,2016,3
+CA-2014-135405,"Melanie Seite",Consumer,Central,"Office Supplies",Art,9.344,2,1.168,0.2,12.5,2014-09-01,2014-01-13,2014,9
+CA-2014-135405,"Melanie Seite",Consumer,Central,Technology,Accessories,31.2,3,9.75,0.2,31.25,2014-09-01,2014-01-13,2014,9
+CA-2014-131450,"Lena Radford",Consumer,West,"Office Supplies",Appliances,76.12,2,22.0748,0,28.999999999999996,2014-08-08,2014-08-15,2014,8
+CA-2014-131450,"Lena Radford",Consumer,West,Technology,Copiers,1199.976,3,434.9913,0.2,36.25,2014-08-08,2014-08-15,2014,8
+CA-2014-131450,"Lena Radford",Consumer,West,Technology,Phones,445.96,5,55.745,0.2,12.5,2014-08-08,2014-08-15,2014,8
+CA-2014-131450,"Lena Radford",Consumer,West,Furniture,Furnishings,327.76,8,91.7728,0,28.000000000000004,2014-08-08,2014-08-15,2014,8
+CA-2016-120180,"Theone Pippenger",Consumer,East,"Office Supplies",Supplies,11.632,2,1.0178,0.2,8.75,2016-07-14,2016-07-16,2016,7
+US-2016-100720,"Chloris Kastensmidt",Consumer,East,Technology,Phones,143.982,3,-28.7964,0.4,-20,2016-07-16,2016-07-21,2016,7
+US-2016-100720,"Chloris Kastensmidt",Consumer,East,Technology,Phones,494.376,4,-115.3544,0.4,-23.333333333333332,2016-07-16,2016-07-21,2016,7
+US-2016-100720,"Chloris Kastensmidt",Consumer,East,"Office Supplies",Supplies,5.84,2,0.73,0.2,12.5,2016-07-16,2016-07-21,2016,7
+CA-2014-149958,"Alan Shonely",Consumer,South,"Office Supplies",Storage,142.776,1,17.847,0.2,12.5,2014-03-15,2014-03-19,2014,3
+CA-2014-149958,"Alan Shonely",Consumer,South,Furniture,Furnishings,45.696,3,5.1408,0.2,11.25,2014-03-15,2014-03-19,2014,3
+CA-2014-149958,"Alan Shonely",Consumer,South,"Office Supplies",Binders,7.218,3,-5.5338,0.7,-76.66666666666667,2014-03-15,2014-03-19,2014,3
+CA-2014-149958,"Alan Shonely",Consumer,South,"Office Supplies",Binders,43.188,4,-31.6712,0.7,-73.33333333333333,2014-03-15,2014-03-19,2014,3
+CA-2014-149958,"Alan Shonely",Consumer,South,"Office Supplies",Paper,131.904,3,47.8152,0.2,36.25,2014-03-15,2014-03-19,2014,3
+US-2014-105767,"Andrew Roberts",Consumer,East,"Office Supplies",Binders,3.282,2,-2.6256,0.7,-80,2014-05-23,2014-05-27,2014,5
+US-2014-105767,"Andrew Roberts",Consumer,East,"Office Supplies",Art,21.168,9,2.3814,0.2,11.250000000000002,2014-05-23,2014-05-27,2014,5
+US-2014-105767,"Andrew Roberts",Consumer,East,Technology,Phones,55.188,2,-10.1178,0.4,-18.333333333333336,2014-05-23,2014-05-27,2014,5
+CA-2016-161816,"Nona Balk",Corporate,Central,Technology,Phones,369.576,3,41.5773,0.2,11.25,2016-04-28,2016-01-05,2016,4
+CA-2016-161816,"Nona Balk",Corporate,Central,"Office Supplies",Labels,15.712,4,5.6956,0.2,36.25,2016-04-28,2016-01-05,2016,4
+CA-2016-121223,"Giulietta Dortch",Corporate,East,"Office Supplies",Paper,8.448,2,2.64,0.2,31.25,2016-11-09,2016-09-13,2016,11
+CA-2016-121223,"Giulietta Dortch",Corporate,East,Technology,Phones,728.946,9,-157.9383,0.4,-21.666666666666664,2016-11-09,2016-09-13,2016,11
+CA-2017-138611,"Clytie Kelty",Consumer,East,Technology,Phones,119.94,10,15.992,0.4,13.333333333333334,2017-11-14,2017-11-17,2017,11
+CA-2017-138611,"Clytie Kelty",Consumer,East,"Office Supplies",Binders,3.648,2,-2.7968,0.7,-76.66666666666667,2017-11-14,2017-11-17,2017,11
+CA-2017-117947,"Nat Gilpin",Corporate,East,Furniture,Furnishings,40.48,2,15.7872,0,39,2017-08-18,2017-08-23,2017,8
+CA-2017-117947,"Nat Gilpin",Corporate,East,Furniture,Furnishings,9.94,2,3.0814,0,31,2017-08-18,2017-08-23,2017,8
+CA-2017-117947,"Nat Gilpin",Corporate,East,"Office Supplies",Binders,107.424,9,33.57,0.2,31.25,2017-08-18,2017-08-23,2017,8
+CA-2017-117947,"Nat Gilpin",Corporate,East,Technology,Phones,37.91,1,10.9939,0,29.000000000000004,2017-08-18,2017-08-23,2017,8
+CA-2017-117947,"Nat Gilpin",Corporate,East,Furniture,Furnishings,88.02,3,27.2862,0,31,2017-08-18,2017-08-23,2017,8
+CA-2015-138009,"Sylvia Foulston",Corporate,Central,Furniture,Chairs,301.96,2,87.5684,0,29.000000000000004,2015-11-29,2015-03-12,2015,11
+CA-2015-138009,"Sylvia Foulston",Corporate,Central,"Office Supplies",Appliances,555.21,5,178.901,0.1,32.22222222222222,2015-11-29,2015-03-12,2015,11
+CA-2015-138009,"Sylvia Foulston",Corporate,Central,"Office Supplies",Storage,523.48,4,130.87,0,25,2015-11-29,2015-03-12,2015,11
+CA-2015-138009,"Sylvia Foulston",Corporate,Central,"Office Supplies",Art,161.82,9,46.9278,0,28.999999999999996,2015-11-29,2015-03-12,2015,11
+CA-2017-163020,"Meg O'Connel","Home Office",East,Furniture,Furnishings,35.56,7,12.0904,0,34,2017-09-15,2017-09-19,2017,9
+CA-2017-153787,"Annie Thurman",Consumer,West,"Office Supplies",Appliances,97.16,2,28.1764,0,29.000000000000004,2017-05-19,2017-05-23,2017,5
+US-2016-135720,"Fred McMath",Consumer,West,"Office Supplies",Storage,243.384,3,-51.7191,0.2,-21.25,2016-11-12,2016-12-13,2016,11
+US-2016-135720,"Fred McMath",Consumer,West,Technology,Accessories,119.8,5,29.95,0.2,25,2016-11-12,2016-12-13,2016,11
+US-2016-135720,"Fred McMath",Consumer,West,Technology,Phones,300.768,4,30.0768,0.2,10,2016-11-12,2016-12-13,2016,11
+CA-2017-144694,"Brian Dahlen",Consumer,South,Technology,Accessories,17.88,3,2.4585,0.2,13.750000000000002,2017-09-24,2017-09-26,2017,9
+CA-2017-144694,"Brian Dahlen",Consumer,South,"Office Supplies",Labels,235.944,3,85.5297,0.2,36.25000000000001,2017-09-24,2017-09-26,2017,9
+CA-2015-168004,"Denny Joy",Corporate,South,Furniture,Chairs,392.94,3,43.2234,0,11,2015-04-10,2015-09-10,2015,4
+US-2016-123470,"Max Engle",Consumer,West,"Office Supplies",Binders,18.882,3,-13.8468,0.7,-73.33333333333333,2016-08-15,2016-08-21,2016,8
+US-2016-123470,"Max Engle",Consumer,West,"Office Supplies",Appliances,122.328,3,12.2328,0.2,10,2016-08-15,2016-08-21,2016,8
+CA-2016-115917,"Rick Bensley","Home Office",West,Furniture,Furnishings,1049.2,5,272.792,0,25.999999999999996,2016-05-20,2016-05-25,2016,5
+CA-2016-115917,"Rick Bensley","Home Office",West,"Office Supplies",Binders,15.424,4,5.0128,0.2,32.5,2016-05-20,2016-05-25,2016,5
+CA-2016-147067,"Justin Deggeller",Corporate,Central,Furniture,Furnishings,18.84,3,6.0288,0,32,2016-12-18,2016-12-22,2016,12
+CA-2017-167913,"John Lee",Consumer,West,"Office Supplies",Storage,330.4,2,85.904,0,26,2017-07-30,2017-03-08,2017,7
+CA-2017-167913,"John Lee",Consumer,West,"Office Supplies",Labels,26.25,7,12.6,0,48,2017-07-30,2017-03-08,2017,7
+CA-2017-106103,"Sean Christensen",Consumer,Central,Technology,Accessories,132.52,4,54.3332,0,41,2017-10-06,2017-06-15,2017,10
+US-2017-127719,"Tamara Willingham","Home Office",East,"Office Supplies",Paper,6.48,1,3.1752,0,48.99999999999999,2017-07-21,2017-07-25,2017,7
+CA-2017-126221,"Chuck Clark","Home Office",Central,"Office Supplies",Appliances,209.3,2,56.511,0,27,2017-12-30,2018-05-01,2017,12
+CA-2016-103947,"Barry Blumstein",Corporate,West,"Office Supplies",Fasteners,31.56,5,9.8625,0.2,31.250000000000007,2016-01-04,2016-08-04,2016,1
+CA-2016-103947,"Barry Blumstein",Corporate,West,"Office Supplies",Appliances,30.144,2,3.0144,0.2,10,2016-01-04,2016-08-04,2016,1
+CA-2016-160745,"Anthony Rawles",Corporate,West,Furniture,Furnishings,14.8,4,6.068,0,41,2016-11-12,2016-12-16,2016,11
+CA-2016-160745,"Anthony Rawles",Corporate,West,Technology,Phones,302.376,3,22.6782,0.2,7.500000000000001,2016-11-12,2016-12-16,2016,11
+CA-2016-160745,"Anthony Rawles",Corporate,West,Technology,Accessories,316,4,31.6,0,10,2016-11-12,2016-12-16,2016,11
+CA-2016-132661,"Steven Roelle","Home Office",East,"Office Supplies",Paper,379.4,10,178.318,0,47.00000000000001,2016-10-23,2016-10-29,2016,10
+CA-2017-140844,"Allen Rosenblatt",Corporate,East,"Office Supplies",Paper,97.82,2,45.9754,0,47,2017-06-19,2017-06-23,2017,6
+CA-2017-140844,"Allen Rosenblatt",Corporate,East,Technology,Accessories,103.12,8,10.312,0,10,2017-06-19,2017-06-23,2017,6
+CA-2016-137239,"Craig Reiter",Consumer,East,"Office Supplies",Appliances,113.552,2,8.5164,0.2,7.5,2016-08-22,2016-08-28,2016,8
+CA-2016-137239,"Craig Reiter",Consumer,East,"Office Supplies",Binders,3.318,2,-2.6544,0.7,-80,2016-08-22,2016-08-28,2016,8
+CA-2016-137239,"Craig Reiter",Consumer,East,"Office Supplies",Envelopes,134.288,2,45.3222,0.2,33.75,2016-08-22,2016-08-28,2016,8
+US-2016-156097,"Eugene Hildebrand","Home Office",Central,Furniture,Chairs,701.372,2,-50.098,0.3,-7.142857142857142,2016-09-19,2016-09-19,2016,9
+CA-2015-146563,"Cassandra Brandow",Consumer,Central,"Office Supplies",Storage,999.432,7,124.929,0.2,12.5,2015-08-24,2015-08-28,2015,8
+CA-2015-146563,"Cassandra Brandow",Consumer,Central,"Office Supplies",Storage,724.08,14,-135.765,0.2,-18.749999999999996,2015-08-24,2015-08-28,2015,8
+CA-2015-146563,"Cassandra Brandow",Consumer,Central,Furniture,Tables,918.785,5,-118.1295,0.3,-12.857142857142856,2015-08-24,2015-08-28,2015,8
+CA-2016-123666,"Sibella Parks",Corporate,East,"Office Supplies",Storage,459.95,5,18.398,0,4,2016-03-26,2016-03-30,2016,3
+CA-2016-143308,"Roy Collins",Consumer,South,"Office Supplies",Fasteners,10.74,3,5.2626,0,49,2016-04-11,2016-04-11,2016,4
+CA-2017-132682,"Tiffany House",Corporate,Central,"Office Supplies",Supplies,23.76,3,2.079,0.2,8.75,2017-08-06,2017-10-06,2017,8
+CA-2017-132682,"Tiffany House",Corporate,Central,"Office Supplies",Paper,85.056,3,28.7064,0.2,33.75,2017-08-06,2017-10-06,2017,8
+CA-2017-132682,"Tiffany House",Corporate,Central,Technology,Phones,381.576,3,28.6182,0.2,7.5,2017-08-06,2017-10-06,2017,8
+CA-2014-156314,"Resi Pölking",Consumer,East,Furniture,Furnishings,30.36,5,8.7285,0.2,28.750000000000004,2014-12-24,2014-12-26,2014,12
+US-2017-106663,"Meg O'Connel","Home Office",Central,Furniture,Furnishings,23.976,3,-14.3856,0.6,-60,2017-09-06,2017-06-13,2017,9
+US-2017-106663,"Meg O'Connel","Home Office",Central,Furniture,Tables,108.925,1,-71.8905,0.5,-66,2017-09-06,2017-06-13,2017,9
+CA-2017-111178,"Tamara Dahlen",Consumer,Central,"Office Supplies",Art,19.56,5,1.7115,0.2,8.75,2017-06-15,2017-06-22,2017,6
+CA-2017-130351,"Rob Beeghly",Consumer,Central,"Office Supplies",Appliances,61.44,3,16.5888,0,27,2017-05-12,2017-08-12,2017,5
+CA-2017-130351,"Rob Beeghly",Consumer,Central,"Office Supplies",Paper,38.9,5,17.505,0,45,2017-05-12,2017-08-12,2017,5
+CA-2017-130351,"Rob Beeghly",Consumer,Central,Technology,Accessories,99.39,3,40.7499,0,41,2017-05-12,2017-08-12,2017,5
+US-2017-119438,"Carol Darley",Consumer,Central,Technology,Accessories,27.816,3,4.5201,0.2,16.25,2017-03-18,2017-03-23,2017,3
+US-2017-119438,"Carol Darley",Consumer,Central,Furniture,Furnishings,82.524,3,-41.262,0.6,-50,2017-03-18,2017-03-23,2017,3
+CA-2016-164511,"Doug Jacobs",Consumer,East,"Office Supplies",Binders,14.352,3,4.6644,0.2,32.49999999999999,2016-11-19,2016-11-24,2016,11
+CA-2016-164511,"Doug Jacobs",Consumer,East,"Office Supplies",Storage,64.96,2,2.5984,0,4,2016-11-19,2016-11-24,2016,11
+CA-2016-164511,"Doug Jacobs",Consumer,East,"Office Supplies",Storage,68.6,4,18.522,0,27,2016-11-19,2016-11-24,2016,11
+US-2017-168116,"Grant Thornton",Corporate,South,Technology,Machines,7999.98,4,-3839.9904,0.5,-48.00000000000001,2017-04-11,2017-04-11,2017,4
+US-2017-168116,"Grant Thornton",Corporate,South,"Office Supplies",Appliances,167.44,2,14.651,0.2,8.75,2017-04-11,2017-04-11,2017,4
+CA-2014-157784,"Michael Chen",Consumer,South,Technology,Accessories,479.97,3,163.1898,0,34,2014-05-07,2014-08-07,2014,5
+CA-2014-157784,"Michael Chen",Consumer,South,"Office Supplies",Labels,14.62,2,6.8714,0,47,2014-05-07,2014-08-07,2014,5
+CA-2014-157784,"Michael Chen",Consumer,South,"Office Supplies",Paper,19.44,3,9.3312,0,48.00000000000001,2014-05-07,2014-08-07,2014,5
+CA-2017-161480,"Ralph Arnett",Consumer,East,Furniture,Bookcases,191.984,2,4.7996,0.2,2.5,2017-12-25,2017-12-29,2017,12
+US-2014-117135,"Naresj Patel",Consumer,South,Furniture,Furnishings,104.01,1,14.5614,0,14.000000000000002,2014-06-21,2014-06-23,2014,6
+US-2014-117135,"Naresj Patel",Consumer,South,Technology,Phones,284.82,1,74.0532,0,26,2014-06-21,2014-06-23,2014,6
+US-2014-117135,"Naresj Patel",Consumer,South,"Office Supplies",Storage,36.84,3,10.3152,0,27.999999999999996,2014-06-21,2014-06-23,2014,6
+CA-2015-131534,"Alan Barnes",Consumer,West,Technology,Accessories,166.24,1,24.936,0,15,2015-03-28,2015-02-04,2015,3
+CA-2015-131534,"Alan Barnes",Consumer,West,"Office Supplies",Paper,33.4,5,16.032,0,48.00000000000001,2015-03-28,2015-02-04,2015,3
+CA-2015-119291,"Jesus Ocampo","Home Office",East,"Office Supplies",Art,198.272,8,17.3488,0.2,8.75,2015-05-14,2015-05-17,2015,5
+CA-2015-119291,"Jesus Ocampo","Home Office",East,"Office Supplies",Labels,47.36,4,17.76,0.2,37.50000000000001,2015-05-14,2015-05-17,2015,5
+CA-2015-119291,"Jesus Ocampo","Home Office",East,"Office Supplies",Envelopes,200.984,7,62.8075,0.2,31.25,2015-05-14,2015-05-17,2015,5
+CA-2015-119291,"Jesus Ocampo","Home Office",East,"Office Supplies",Labels,97.696,4,31.7512,0.2,32.5,2015-05-14,2015-05-17,2015,5
+CA-2015-119291,"Jesus Ocampo","Home Office",East,"Office Supplies",Art,2.696,1,0.8088,0.2,30,2015-05-14,2015-05-17,2015,5
+CA-2015-119291,"Jesus Ocampo","Home Office",East,"Office Supplies",Binders,18.588,2,-13.6312,0.7,-73.33333333333333,2015-05-14,2015-05-17,2015,5
+CA-2015-119291,"Jesus Ocampo","Home Office",East,"Office Supplies",Binders,4.896,3,-3.4272,0.7,-70,2015-05-14,2015-05-17,2015,5
+CA-2017-114552,"Dorris liebe",Corporate,East,Furniture,Furnishings,15.072,3,4.1448,0.2,27.500000000000004,2017-02-09,2017-08-09,2017,2
+CA-2016-163755,"Alejandro Savely",Corporate,West,Furniture,Furnishings,209.88,3,35.6796,0,17,2016-04-11,2016-08-11,2016,4
+CA-2015-142027,"Jay Kimmel",Consumer,West,Furniture,Tables,369.912,3,-13.8717,0.2,-3.7500000000000004,2015-09-04,2015-04-14,2015,9
+CA-2014-138527,"Brad Norvell",Corporate,South,"Office Supplies",Paper,10.368,2,3.6288,0.2,35,2014-12-09,2014-09-17,2014,12
+CA-2014-138527,"Brad Norvell",Corporate,South,"Office Supplies",Appliances,166.84,5,18.7695,0.2,11.25,2014-12-09,2014-09-17,2014,12
+CA-2014-138527,"Brad Norvell",Corporate,South,Technology,Accessories,15.216,1,2.2824,0.2,15,2014-12-09,2014-09-17,2014,12
+CA-2014-112158,"David Philippe",Consumer,East,Technology,Accessories,119.96,4,52.7824,0,44.00000000000001,2014-02-12,2014-04-12,2014,2
+CA-2014-112158,"David Philippe",Consumer,East,Furniture,Bookcases,883.92,5,-110.49,0.2,-12.5,2014-02-12,2014-04-12,2014,2
+CA-2014-112158,"David Philippe",Consumer,East,"Office Supplies",Binders,46.72,8,15.768,0.2,33.75,2014-02-12,2014-04-12,2014,2
+CA-2014-113887,"Tracy Hopkins","Home Office",East,"Office Supplies",Paper,55.48,1,26.6304,0,48.00000000000001,2014-05-04,2014-07-04,2014,5
+CA-2017-146136,"Arthur Prichep",Consumer,South,"Office Supplies",Envelopes,24.448,4,8.8624,0.2,36.24999999999999,2017-03-09,2017-07-09,2017,3
+US-2017-100048,"Roland Schwarz",Corporate,East,"Office Supplies",Appliances,281.34,6,109.7226,0,39,2017-05-19,2017-05-24,2017,5
+US-2017-100048,"Roland Schwarz",Corporate,East,Technology,Phones,307.98,2,89.3142,0,28.999999999999996,2017-05-19,2017-05-24,2017,5
+US-2017-100048,"Roland Schwarz",Corporate,East,Technology,Accessories,299.97,3,113.9886,0,38,2017-05-19,2017-05-24,2017,5
+CA-2014-153150,"Dorris liebe",Corporate,West,"Office Supplies",Binders,19.92,5,6.972,0.2,35,2014-01-07,2014-06-07,2014,1
+CA-2014-130092,"Seth Vernon",Consumer,East,Furniture,Furnishings,9.94,2,3.0814,0,31,2014-11-01,2014-01-14,2014,11
+CA-2017-108910,"Kelly Collister",Consumer,East,Furniture,Furnishings,103.056,3,24.4758,0.2,23.75,2017-09-24,2017-09-29,2017,9
+CA-2014-104472,"Christine Kargatis","Home Office",West,"Office Supplies",Binders,59.808,3,19.4376,0.2,32.5,2014-02-06,2014-07-06,2014,2
+CA-2014-104472,"Christine Kargatis","Home Office",West,Furniture,Furnishings,73.32,6,21.996,0,30,2014-02-06,2014-07-06,2014,2
+CA-2016-112942,"Ross DeVincentis","Home Office",West,"Office Supplies",Paper,146.82,3,73.41,0,50,2016-02-13,2016-02-18,2016,2
+CA-2016-142335,"Michael Paige",Corporate,Central,Furniture,Tables,1652.94,3,231.4116,0,13.999999999999998,2016-12-15,2016-12-19,2016,12
+CA-2016-142335,"Michael Paige",Corporate,Central,"Office Supplies",Storage,296.37,3,80.0199,0,27,2016-12-15,2016-12-19,2016,12
+CA-2014-117429,"Mathew Reese","Home Office",East,Furniture,Furnishings,129.92,5,21.112,0.2,16.25,2014-07-10,2014-10-13,2014,7
+CA-2016-114713,"Steve Chapman",Corporate,South,"Office Supplies",Supplies,45.584,7,5.1282,0.2,11.249999999999998,2016-07-07,2016-12-07,2016,7
+CA-2017-144113,"Jay Fein",Consumer,Central,"Office Supplies",Envelopes,17.568,2,6.3684,0.2,36.25,2017-09-16,2017-09-20,2017,9
+CA-2017-144113,"Jay Fein",Consumer,Central,Technology,Phones,55.992,1,5.5992,0.2,10,2017-09-16,2017-09-20,2017,9
+US-2016-150861,"Emily Grady",Consumer,East,"Office Supplies",Paper,182.72,8,84.0512,0,46,2016-03-12,2016-06-12,2016,3
+US-2016-150861,"Emily Grady",Consumer,East,Furniture,Tables,400.032,2,-153.3456,0.4,-38.33333333333333,2016-03-12,2016-06-12,2016,3
+US-2016-150861,"Emily Grady",Consumer,East,"Office Supplies",Storage,33.63,3,10.089,0,30,2016-03-12,2016-06-12,2016,3
+US-2016-150861,"Emily Grady",Consumer,East,Furniture,Chairs,542.646,3,102.4998,0.1,18.88888888888889,2016-03-12,2016-06-12,2016,3
+US-2016-150861,"Emily Grady",Consumer,East,"Office Supplies",Labels,6.3,2,3.024,0,48.00000000000001,2016-03-12,2016-06-12,2016,3
+CA-2017-131954,"Darrin Sayre","Home Office",West,"Office Supplies",Storage,242.94,3,9.7176,0,3.9999999999999996,2017-01-21,2017-01-25,2017,1
+CA-2017-131954,"Darrin Sayre","Home Office",West,Technology,Accessories,179.97,3,86.3856,0,48,2017-01-21,2017-01-25,2017,1
+CA-2017-131954,"Darrin Sayre","Home Office",West,"Office Supplies",Binders,99.696,6,33.6474,0.2,33.75,2017-01-21,2017-01-25,2017,1
+CA-2017-131954,"Darrin Sayre","Home Office",West,"Office Supplies",Binders,27.936,4,9.4284,0.2,33.75,2017-01-21,2017-01-25,2017,1
+CA-2017-131954,"Darrin Sayre","Home Office",West,Furniture,Bookcases,84.98,1,18.6956,0,21.999999999999996,2017-01-21,2017-01-25,2017,1
+CA-2017-131954,"Darrin Sayre","Home Office",West,"Office Supplies",Binders,18.72,5,6.552,0.2,35,2017-01-21,2017-01-25,2017,1
+CA-2014-132500,"Gary Zandusky",Consumer,West,Technology,Accessories,49.98,2,8.4966,0,17.000000000000004,2014-08-09,2014-12-09,2014,8
+CA-2014-112326,"Phillina Ober","Home Office",Central,"Office Supplies",Labels,11.784,3,4.2717,0.2,36.25,2014-04-01,2014-08-01,2014,4
+CA-2014-112326,"Phillina Ober","Home Office",Central,"Office Supplies",Storage,272.736,3,-64.7748,0.2,-23.75,2014-04-01,2014-08-01,2014,4
+US-2016-146710,"Sung Shariari",Consumer,Central,"Office Supplies",Supplies,51.52,5,-10.948,0.2,-21.25,2016-08-27,2016-01-09,2016,8
+US-2016-146710,"Sung Shariari",Consumer,Central,"Office Supplies",Paper,4.624,1,1.6762,0.2,36.25,2016-08-27,2016-01-09,2016,8
+CA-2014-124429,"Maya Herman",Corporate,West,Furniture,Tables,567.12,10,-28.356,0.2,-5,2014-05-27,2014-05-27,2014,5
+CA-2014-124429,"Maya Herman",Corporate,West,"Office Supplies",Storage,359.32,4,7.1864,0,2,2014-05-27,2014-05-27,2014,5
+CA-2016-150889,"Peter Bühler",Consumer,Central,Technology,Phones,11.992,1,0.8994,0.2,7.5,2016-03-20,2016-03-22,2016,3
+CA-2017-126074,"Roland Fjeld",Consumer,Central,"Office Supplies",Binders,58.05,3,26.703,0,46,2017-02-10,2017-06-10,2017,2
+CA-2017-126074,"Roland Fjeld",Consumer,Central,Furniture,Furnishings,157.74,11,56.7864,0,36,2017-02-10,2017-06-10,2017,2
+CA-2017-126074,"Roland Fjeld",Consumer,Central,"Office Supplies",Art,56.98,7,22.792,0,40,2017-02-10,2017-06-10,2017,2
+CA-2017-126074,"Roland Fjeld",Consumer,Central,"Office Supplies",Binders,2.88,1,1.4112,0,49.00000000000001,2017-02-10,2017-06-10,2017,2
+CA-2016-110499,"Yoseph Carroll",Corporate,West,Technology,Copiers,1199.976,3,374.9925,0.2,31.25,2016-07-04,2016-09-04,2016,7
+CA-2015-135272,"Melanie Seite",Consumer,West,Furniture,Furnishings,79.92,4,28.7712,0,36,2015-07-12,2015-12-12,2015,7
+CA-2016-140928,"Nona Balk",Corporate,South,Furniture,Tables,383.438,4,-167.3184,0.45,-43.63636363636363,2016-09-18,2016-09-22,2016,9
+CA-2014-106803,"Debra Catini",Consumer,Central,"Office Supplies",Storage,24.56,2,6.8768,0,28.000000000000004,2014-12-29,2015-02-01,2014,12
+CA-2014-106803,"Debra Catini",Consumer,Central,Technology,Accessories,119.8,4,47.92,0,40,2014-12-29,2015-02-01,2014,12
+CA-2017-117240,"Christine Phan",Corporate,East,"Office Supplies",Binders,13.128,3,4.2666,0.2,32.5,2017-07-23,2017-07-28,2017,7
+CA-2015-112319,"Andrew Roberts",Consumer,West,"Office Supplies",Paper,58.32,9,27.9936,0,48,2015-08-31,2015-05-09,2015,8
+CA-2017-126046,"Julie Creighton",Corporate,South,"Office Supplies",Labels,12.39,3,5.6994,0,46,2017-03-11,2017-07-11,2017,3
+CA-2015-114923,"Lisa Hazard",Consumer,East,Technology,Phones,107.982,3,-26.9955,0.4,-25,2015-08-02,2015-02-13,2015,8
+CA-2014-162775,"Chris Selesnick",Corporate,South,"Office Supplies",Envelopes,11.36,2,5.3392,0,47,2014-01-13,2014-01-15,2014,1
+CA-2014-162775,"Chris Selesnick",Corporate,South,"Office Supplies",Envelopes,50.94,3,25.47,0,50,2014-01-13,2014-01-15,2014,1
+CA-2014-162775,"Chris Selesnick",Corporate,South,Technology,Accessories,646.74,6,258.696,0,40,2014-01-13,2014-01-15,2014,1
+CA-2014-162775,"Chris Selesnick",Corporate,South,"Office Supplies",Binders,5.64,3,2.7072,0,48,2014-01-13,2014-01-15,2014,1
+CA-2014-162775,"Chris Selesnick",Corporate,South,"Office Supplies",Storage,572.58,6,34.3548,0,5.999999999999999,2014-01-13,2014-01-15,2014,1
+CA-2014-106810,"Anthony Johnson",Corporate,South,Furniture,Furnishings,310.88,2,23.316,0.2,7.5,2014-05-14,2014-05-20,2014,5
+CA-2016-157245,"Laurel Elliston",Consumer,South,Furniture,Chairs,641.96,2,179.7488,0,27.999999999999996,2016-05-19,2016-05-24,2016,5
+CA-2017-104220,"Benjamin Venier",Corporate,Central,"Office Supplies",Binders,18.28,2,9.14,0,50,2017-01-30,2017-05-02,2017,1
+CA-2017-104220,"Benjamin Venier",Corporate,Central,Technology,Phones,207,3,51.75,0,25,2017-01-30,2017-05-02,2017,1
+CA-2017-104220,"Benjamin Venier",Corporate,Central,"Office Supplies",Binders,32.35,5,16.175,0,50,2017-01-30,2017-05-02,2017,1
+CA-2017-104220,"Benjamin Venier",Corporate,Central,"Office Supplies",Binders,7.71,1,3.4695,0,45,2017-01-30,2017-05-02,2017,1
+CA-2017-104220,"Benjamin Venier",Corporate,Central,"Office Supplies",Art,40.3,2,10.881,0,27,2017-01-30,2017-05-02,2017,1
+CA-2017-104220,"Benjamin Venier",Corporate,Central,Furniture,Furnishings,34.58,7,14.5236,0,42.00000000000001,2017-01-30,2017-05-02,2017,1
+CA-2014-165974,"Dan Lawera",Consumer,East,"Office Supplies",Art,32.76,7,3.6855,0.2,11.250000000000002,2014-06-29,2014-06-07,2014,6
+CA-2015-144267,"Nick Zandusky","Home Office",West,Furniture,Chairs,544.008,3,40.8006,0.2,7.5,2015-08-21,2015-08-23,2015,8
+CA-2015-144267,"Nick Zandusky","Home Office",West,"Office Supplies",Paper,59.94,3,28.1718,0,47,2015-08-21,2015-08-23,2015,8
+CA-2015-144267,"Nick Zandusky","Home Office",West,"Office Supplies",Paper,23.92,4,11.7208,0,49,2015-08-21,2015-08-23,2015,8
+CA-2015-144267,"Nick Zandusky","Home Office",West,"Office Supplies",Paper,4.28,1,1.926,0,44.99999999999999,2015-08-21,2015-08-23,2015,8
+US-2015-157014,"Bryan Mills",Consumer,East,"Office Supplies",Binders,32.07,5,-22.449,0.7,-70,2015-03-10,2015-06-10,2015,3
+US-2015-157014,"Bryan Mills",Consumer,East,Technology,Accessories,24,2,-2.7,0.2,-11.25,2015-03-10,2015-06-10,2015,3
+US-2015-157014,"Bryan Mills",Consumer,East,Furniture,Bookcases,35.49,1,-15.6156,0.5,-44,2015-03-10,2015-06-10,2015,3
+US-2015-157014,"Bryan Mills",Consumer,East,Technology,Accessories,47.984,2,0.5998,0.2,1.25,2015-03-10,2015-06-10,2015,3
+CA-2015-154921,"Erin Ashbrook",Corporate,South,"Office Supplies",Envelopes,186.69,3,87.7443,0,47,2015-05-23,2015-05-28,2015,5
+CA-2017-129567,"Clay Ludtke",Consumer,West,"Office Supplies",Binders,17.456,2,5.8914,0.2,33.75,2017-03-17,2017-03-21,2017,3
+CA-2015-154620,"Liz Thompson",Consumer,West,Furniture,Chairs,348.928,2,34.8928,0.2,10,2015-12-12,2015-12-16,2015,12
+CA-2015-115938,"Sue Ann Reed",Consumer,South,"Office Supplies",Binders,143.96,4,69.1008,0,48.00000000000001,2015-06-26,2015-06-30,2015,6
+CA-2015-115938,"Sue Ann Reed",Consumer,South,"Office Supplies",Storage,15.42,1,4.1634,0,27,2015-06-26,2015-06-30,2015,6
+CA-2015-115938,"Sue Ann Reed",Consumer,South,"Office Supplies",Binders,43.04,8,21.0896,0,49.00000000000001,2015-06-26,2015-06-30,2015,6
+CA-2015-115938,"Sue Ann Reed",Consumer,South,Furniture,Chairs,332.94,3,79.9056,0,24.000000000000004,2015-06-26,2015-06-30,2015,6
+CA-2016-105256,"Joe Kamberova",Consumer,South,Technology,Phones,1363.96,5,85.2475,0.2,6.25,2016-05-20,2016-05-20,2016,5
+CA-2014-156433,"Erica Smith",Consumer,West,"Office Supplies",Labels,9.96,2,4.5816,0,46,2014-09-20,2014-09-26,2014,9
+CA-2014-156433,"Erica Smith",Consumer,West,"Office Supplies",Paper,21.72,4,10.6428,0,49,2014-09-20,2014-09-26,2014,9
+CA-2017-151428,"Rick Hansen",Consumer,Central,"Office Supplies",Binders,20.16,7,9.8784,0,48.99999999999999,2017-09-21,2017-09-26,2017,9
+CA-2015-124653,"David Bremer",Corporate,East,"Office Supplies",Paper,132.79,7,63.7392,0,48,2015-12-24,2015-12-26,2015,12
+CA-2015-124653,"David Bremer",Corporate,East,"Office Supplies",Paper,12.96,2,6.2208,0,47.99999999999999,2015-12-24,2015-12-26,2015,12
+CA-2015-124653,"David Bremer",Corporate,East,"Office Supplies",Labels,21.56,7,10.3488,0,48.00000000000001,2015-12-24,2015-12-26,2015,12
+CA-2015-101910,"Carlos Daly",Consumer,West,Furniture,Chairs,283.92,5,17.745,0.2,6.25,2015-11-27,2015-03-12,2015,11
+CA-2017-105809,"Helen Wasserman",Corporate,West,Furniture,Furnishings,22.23,1,7.3359,0,32.99999999999999,2017-02-20,2017-02-23,2017,2
+CA-2017-105809,"Helen Wasserman",Corporate,West,Technology,Phones,215.968,2,18.8972,0.2,8.75,2017-02-20,2017-02-23,2017,2
+CA-2016-136133,"Helen Wasserman",Corporate,East,"Office Supplies",Appliances,355.32,9,99.4896,0,27.999999999999996,2016-08-18,2016-08-23,2016,8
+CA-2016-115504,"Mike Caudle",Corporate,South,"Office Supplies",Paper,12.96,2,6.2208,0,47.99999999999999,2016-12-03,2016-03-17,2016,12
+CA-2017-135783,"Gary McGarr",Consumer,West,Furniture,Furnishings,18.28,2,6.2152,0,34,2017-04-22,2017-04-24,2017,4
+CA-2014-134313,"Russell Applegate",Consumer,West,"Office Supplies",Art,43.176,3,4.3176,0.2,10,2014-01-11,2014-07-11,2014,1
+CA-2014-134313,"Russell Applegate",Consumer,West,Technology,Phones,1983.968,4,247.996,0.2,12.5,2014-01-11,2014-07-11,2014,1
+CA-2015-140921,"Allen Armold",Consumer,Central,Furniture,Furnishings,28.4,2,11.076,0,39,2015-03-02,2015-05-02,2015,3
+CA-2015-140921,"Allen Armold",Consumer,Central,Technology,Accessories,149.97,3,50.9898,0,34,2015-03-02,2015-05-02,2015,3
+CA-2014-151995,"Zuschuss Carroll",Consumer,West,"Office Supplies",Art,11.52,4,3.2256,0,28.000000000000004,2014-10-13,2014-10-15,2014,10
+CA-2014-151995,"Zuschuss Carroll",Consumer,West,Furniture,Tables,1298.55,5,311.652,0,24,2014-10-13,2014-10-15,2014,10
+CA-2014-151995,"Zuschuss Carroll",Consumer,West,"Office Supplies",Appliances,213.92,4,62.0368,0,29.000000000000004,2014-10-13,2014-10-15,2014,10
+CA-2014-151995,"Zuschuss Carroll",Consumer,West,Technology,Accessories,25.78,2,2.578,0,10,2014-10-13,2014-10-15,2014,10
+CA-2017-143686,"Pauline Johnson",Consumer,West,Furniture,Furnishings,18.28,2,6.2152,0,34,2017-05-14,2017-05-14,2017,5
+CA-2017-143686,"Pauline Johnson",Consumer,West,Technology,Accessories,1399.93,7,601.9699,0,43,2017-05-14,2017-05-14,2017,5
+CA-2015-106565,"Bart Watters",Corporate,Central,"Office Supplies",Paper,51.84,8,24.8832,0,47.99999999999999,2015-03-20,2015-03-23,2015,3
+CA-2016-149370,"Dean Braden",Consumer,East,"Office Supplies",Paper,5.344,1,1.8704,0.2,35,2016-09-15,2016-09-19,2016,9
+CA-2014-140858,"Cynthia Arntzen",Consumer,East,"Office Supplies",Paper,41.472,8,14.5152,0.2,35,2014-06-28,2014-02-07,2014,6
+CA-2014-140858,"Cynthia Arntzen",Consumer,East,"Office Supplies",Binders,3.168,3,-2.4288,0.7,-76.66666666666666,2014-06-28,2014-02-07,2014,6
+CA-2014-140858,"Cynthia Arntzen",Consumer,East,Furniture,Chairs,1228.465,5,0,0.3,0,2014-06-28,2014-02-07,2014,6
+CA-2014-140858,"Cynthia Arntzen",Consumer,East,"Office Supplies",Binders,31.086,3,-22.7964,0.7,-73.33333333333333,2014-06-28,2014-02-07,2014,6
+CA-2014-140858,"Cynthia Arntzen",Consumer,East,"Office Supplies",Paper,335.52,4,117.432,0.2,35,2014-06-28,2014-02-07,2014,6
+CA-2017-101434,"Toby Ritter",Consumer,East,Technology,Accessories,239.97,3,71.991,0,30,2017-06-20,2017-06-27,2017,6
+CA-2017-101434,"Toby Ritter",Consumer,East,"Office Supplies",Labels,9.82,2,4.8118,0,49,2017-06-20,2017-06-27,2017,6
+US-2014-102071,"Patrick Gardner",Consumer,West,Technology,Accessories,67.8,4,4.068,0,6,2014-09-05,2014-05-15,2014,9
+US-2014-102071,"Patrick Gardner",Consumer,West,Technology,Accessories,167.97,3,40.3128,0,24.000000000000004,2014-09-05,2014-05-15,2014,9
+CA-2017-126956,"Greg Tran",Consumer,Central,"Office Supplies",Fasteners,35,7,16.8,0,48.00000000000001,2017-08-21,2017-08-28,2017,8
+CA-2017-126956,"Greg Tran",Consumer,Central,"Office Supplies",Supplies,37.24,4,10.7996,0,28.999999999999996,2017-08-21,2017-08-28,2017,8
+CA-2017-126956,"Greg Tran",Consumer,Central,"Office Supplies",Envelopes,15.28,2,7.4872,0,49,2017-08-21,2017-08-28,2017,8
+CA-2017-129462,"Joel Eaton",Consumer,South,Furniture,Chairs,301.96,2,90.588,0,30,2017-06-16,2017-06-21,2017,6
+CA-2017-129462,"Joel Eaton",Consumer,South,"Office Supplies",Appliances,180.66,3,50.5848,0,28.000000000000004,2017-06-16,2017-06-21,2017,6
+CA-2017-129462,"Joel Eaton",Consumer,South,Technology,Phones,191.98,2,51.8346,0,27,2017-06-16,2017-06-21,2017,6
+CA-2017-129462,"Joel Eaton",Consumer,South,Technology,Phones,65.99,1,17.1574,0,26,2017-06-16,2017-06-21,2017,6
+CA-2016-165316,"Jennifer Braxton",Corporate,South,"Office Supplies",Art,35.216,2,2.6412,0.2,7.5,2016-07-23,2016-07-27,2016,7
+CA-2016-165316,"Jennifer Braxton",Corporate,South,"Office Supplies",Appliances,23.696,2,6.5164,0.2,27.499999999999996,2016-07-23,2016-07-27,2016,7
+CA-2016-165316,"Jennifer Braxton",Corporate,South,Technology,Machines,265.475,1,-111.4995,0.5,-41.99999999999999,2016-07-23,2016-07-27,2016,7
+US-2017-156083,"James Lanier","Home Office",South,"Office Supplies",Paper,9.664,2,3.2616,0.2,33.75,2017-04-11,2017-11-11,2017,4
+US-2016-137547,"Ed Braxton",Corporate,Central,Technology,Phones,21.072,3,1.5804,0.2,7.500000000000001,2016-07-03,2016-12-03,2016,7
+CA-2015-100454,"Brian Moss",Corporate,East,"Office Supplies",Art,60.45,3,16.3215,0,27,2015-11-20,2015-11-25,2015,11
+CA-2015-100454,"Brian Moss",Corporate,East,"Office Supplies",Art,11.52,4,3.3408,0,29.000000000000004,2015-11-20,2015-11-25,2015,11
+CA-2015-100454,"Brian Moss",Corporate,East,Furniture,Bookcases,186.048,4,9.3024,0.2,5,2015-11-20,2015-11-25,2015,11
+CA-2016-161669,"Eudokia Martin",Corporate,West,"Office Supplies",Binders,37.44,4,11.7,0.2,31.25,2016-07-11,2016-09-11,2016,7
+CA-2016-161669,"Eudokia Martin",Corporate,West,"Office Supplies",Binders,26.976,4,8.7672,0.2,32.50000000000001,2016-07-11,2016-09-11,2016,7
+CA-2016-161669,"Eudokia Martin",Corporate,West,"Office Supplies",Supplies,11.36,2,3.2944,0,29.000000000000004,2016-07-11,2016-09-11,2016,7
+CA-2016-161669,"Eudokia Martin",Corporate,West,"Office Supplies",Labels,14.62,2,6.8714,0,47,2016-07-11,2016-09-11,2016,7
+CA-2015-114300,"Art Foster",Consumer,South,Technology,Phones,83.72,7,23.4416,0,28.000000000000004,2015-10-13,2015-10-17,2015,10
+CA-2015-114300,"Art Foster",Consumer,South,Furniture,Chairs,287.94,3,77.7438,0,26.999999999999996,2015-10-13,2015-10-17,2015,10
+CA-2014-107755,"Cyma Kinney",Corporate,East,Technology,Accessories,115.36,7,49.6048,0,43,2014-07-02,2014-12-02,2014,7
+CA-2016-152534,"Dave Poirier",Corporate,West,"Office Supplies",Art,5.16,2,1.3416,0,25.999999999999996,2016-06-20,2016-06-25,2016,6
+CA-2016-152534,"Dave Poirier",Corporate,West,"Office Supplies",Paper,38.88,6,18.6624,0,48.00000000000001,2016-06-20,2016-06-25,2016,6
+CA-2016-113747,"Valerie Dominguez",Consumer,South,"Office Supplies",Art,185.88,6,50.1876,0,27,2016-05-28,2016-04-06,2016,5
+CA-2016-123274,"Greg Tran",Consumer,East,Furniture,Furnishings,44.46,2,14.6718,0,32.99999999999999,2016-02-19,2016-02-24,2016,2
+CA-2016-123274,"Greg Tran",Consumer,East,"Office Supplies",Storage,242.94,3,9.7176,0,3.9999999999999996,2016-02-19,2016-02-24,2016,2
+CA-2014-125612,"Berenike Kampe",Consumer,East,"Office Supplies",Paper,39.96,2,18.7812,0,47,2014-03-08,2014-08-08,2014,3
+CA-2014-125612,"Berenike Kampe",Consumer,East,"Office Supplies",Supplies,102.3,10,26.598,0,26,2014-03-08,2014-08-08,2014,3
+CA-2014-125612,"Berenike Kampe",Consumer,East,"Office Supplies",Storage,21.36,2,5.7672,0,27,2014-03-08,2014-08-08,2014,3
+CA-2017-161984,"Sanjit Jacobs","Home Office",East,"Office Supplies",Paper,7.61,1,3.5767,0,47,2017-10-04,2017-04-15,2017,10
+CA-2017-161984,"Sanjit Jacobs","Home Office",East,"Office Supplies",Fasteners,7.16,2,3.58,0,50,2017-10-04,2017-04-15,2017,10
+CA-2014-133851,"Chuck Magee",Consumer,West,"Office Supplies",Supplies,7.36,2,0.1472,0,2,2014-09-06,2014-06-16,2014,9
+CA-2014-133851,"Chuck Magee",Consumer,West,"Office Supplies",Art,23.1,2,10.626,0,46,2014-09-06,2014-06-16,2014,9
+CA-2016-134474,"Anthony Johnson",Corporate,South,Technology,Accessories,191.472,6,40.6878,0.2,21.25,2016-05-01,2016-07-01,2016,5
+CA-2016-134474,"Anthony Johnson",Corporate,South,"Office Supplies",Art,5.248,2,0.5904,0.2,11.25,2016-05-01,2016-07-01,2016,5
+CA-2016-134474,"Anthony Johnson",Corporate,South,Technology,Phones,59.184,2,5.1786,0.2,8.75,2016-05-01,2016-07-01,2016,5
+CA-2014-149020,"Anthony Jacobs",Corporate,South,"Office Supplies",Labels,2.89,1,1.3583,0,47,2014-10-01,2014-01-15,2014,10
+CA-2014-149020,"Anthony Jacobs",Corporate,South,Furniture,Furnishings,51.94,1,21.2954,0,41,2014-10-01,2014-01-15,2014,10
+CA-2016-134362,"Linda Southworth",Corporate,East,"Office Supplies",Labels,15.936,4,5.1792,0.2,32.5,2016-09-29,2016-02-10,2016,9
+CA-2014-136742,"Guy Phonely",Corporate,East,"Office Supplies",Binders,44.91,6,-35.928,0.7,-80,2014-06-04,2014-10-04,2014,6
+CA-2016-158099,"Paul Knutson","Home Office",East,"Office Supplies",Binders,1141.47,5,-760.98,0.7,-66.66666666666666,2016-03-09,2016-05-09,2016,3
+CA-2016-158099,"Paul Knutson","Home Office",East,Technology,Phones,280.782,3,-46.797,0.4,-16.666666666666664,2016-03-09,2016-05-09,2016,3
+CA-2015-131128,"Tracy Blumstein",Consumer,East,"Office Supplies",Paper,34.44,3,17.22,0,50,2015-10-19,2015-10-20,2015,10
+CA-2014-148488,"Sally Matthias",Consumer,East,"Office Supplies",Binders,106.344,7,37.2204,0.2,35,2014-10-12,2014-12-15,2014,10
+CA-2017-114636,"Guy Armstrong",Consumer,South,"Office Supplies",Paper,192.16,5,67.256,0.2,35,2017-08-25,2017-08-29,2017,8
+CA-2016-116736,"Chuck Clark","Home Office",East,Furniture,Furnishings,322.59,3,64.518,0,20,2016-01-17,2016-01-21,2016,1
+CA-2016-116736,"Chuck Clark","Home Office",East,Technology,Accessories,29.99,1,13.1956,0,44.00000000000001,2016-01-17,2016-01-21,2016,1
+CA-2016-116736,"Chuck Clark","Home Office",East,Technology,Accessories,371.97,3,66.9546,0,18,2016-01-17,2016-01-21,2016,1
+CA-2017-111689,"Harold Pawlan","Home Office",East,"Office Supplies",Binders,68.472,3,23.1093,0.2,33.75,2017-11-30,2017-02-12,2017,11
+CA-2017-111689,"Harold Pawlan","Home Office",East,Furniture,Chairs,1242.9,5,262.39,0.1,21.111111111111107,2017-11-30,2017-02-12,2017,11
+CA-2015-129098,"Dave Kipp",Consumer,South,"Office Supplies",Storage,30.84,2,8.3268,0,27,2015-09-10,2015-10-13,2015,9
+US-2017-123463,"Gary Zandusky",Consumer,West,"Office Supplies",Art,13.48,4,5.9312,0,43.99999999999999,2017-12-23,2017-12-23,2017,12
+CA-2016-165148,"Peter McVee","Home Office",Central,Furniture,Furnishings,31.4,5,10.048,0,32,2016-10-22,2016-10-24,2016,10
+CA-2014-134061,"Lauren Leatherbury",Consumer,East,Furniture,Furnishings,17.46,2,5.9364,0,34,2014-04-29,2014-04-05,2014,4
+CA-2015-143602,"Jill Stevenson",Corporate,West,"Office Supplies",Binders,13.944,3,4.5318,0.2,32.49999999999999,2015-04-25,2015-04-28,2015,4
+CA-2017-115364,"Olvera Toch",Consumer,West,"Office Supplies",Storage,83.76,12,1.6752,0,2,2017-06-26,2017-02-07,2017,6
+CA-2017-150707,"Ed Ludwig","Home Office",East,"Office Supplies",Binders,37.66,7,18.4534,0,49,2017-10-14,2017-10-19,2017,10
+CA-2014-104976,"Cyma Kinney",Corporate,West,"Office Supplies",Paper,34.68,6,16.9932,0,49.00000000000001,2014-09-12,2014-12-16,2014,9
+CA-2017-132934,"Jeremy Ellison",Consumer,East,Technology,Accessories,149.95,5,14.995,0,10,2017-06-20,2017-06-26,2017,6
+CA-2017-132934,"Jeremy Ellison",Consumer,East,"Office Supplies",Binders,51.312,3,18.6006,0.2,36.25000000000001,2017-06-20,2017-06-26,2017,6
+CA-2017-133256,"Tracy Hopkins","Home Office",Central,"Office Supplies",Art,15.92,4,5.4128,0,34,2017-06-26,2017-06-27,2017,6
+CA-2017-133256,"Tracy Hopkins","Home Office",Central,Technology,Phones,543.92,8,135.98,0,25,2017-06-26,2017-06-27,2017,6
+CA-2016-105494,"Pamela Coakley",Corporate,West,"Office Supplies",Storage,155.82,7,42.0714,0,27,2016-10-11,2016-12-11,2016,10
+CA-2016-105494,"Pamela Coakley",Corporate,West,"Office Supplies",Binders,70.008,3,24.5028,0.2,35,2016-10-11,2016-12-11,2016,10
+CA-2016-140634,"Hunter Lopez",Consumer,Central,"Office Supplies",Envelopes,15.648,2,5.0856,0.2,32.5,2016-03-10,2016-06-10,2016,3
+CA-2014-144407,"Maribeth Schnelling",Consumer,Central,"Office Supplies",Labels,103.6,7,51.8,0,50,2014-09-09,2014-09-15,2014,9
+CA-2017-160983,"George Bell",Corporate,East,"Office Supplies",Paper,46.96,8,22.5408,0,48,2017-10-29,2017-10-31,2017,10
+US-2016-114622,"Justin Ritter",Corporate,East,"Office Supplies",Binders,8.904,2,-6.5296,0.7,-73.33333333333334,2016-10-04,2016-12-04,2016,10
+CA-2017-150959,"Tamara Dahlen",Consumer,Central,"Office Supplies",Labels,10.44,5,3.393,0.2,32.5,2017-11-11,2017-11-13,2017,11
+CA-2017-132353,"Dave Brooks",Consumer,Central,Technology,Phones,323.976,3,20.2485,0.2,6.25,2017-09-15,2017-09-17,2017,9
+CA-2016-130477,"Logan Currie",Consumer,West,"Office Supplies",Paper,20.04,3,9.6192,0,48,2016-08-04,2016-12-04,2016,8
+CA-2016-130477,"Logan Currie",Consumer,West,"Office Supplies",Storage,64.96,2,2.5984,0,4,2016-08-04,2016-12-04,2016,8
+CA-2016-130477,"Logan Currie",Consumer,West,"Office Supplies",Paper,12.96,2,6.2208,0,47.99999999999999,2016-08-04,2016-12-04,2016,8
+CA-2017-143259,"Patrick O'Donnell",Consumer,East,Furniture,Bookcases,323.136,4,12.1176,0.2,3.75,2017-12-30,2018-03-01,2017,12
+CA-2017-143259,"Patrick O'Donnell",Consumer,East,Technology,Phones,90.93,7,2.7279,0,3,2017-12-30,2018-03-01,2017,12
+CA-2017-143259,"Patrick O'Donnell",Consumer,East,"Office Supplies",Binders,52.776,3,19.791,0.2,37.5,2017-12-30,2018-03-01,2017,12
+CA-2017-137596,"Bill Eplett","Home Office",Central,Technology,Phones,1199.8,4,323.946,0,27,2017-02-09,2017-07-09,2017,2
+CA-2017-137596,"Bill Eplett","Home Office",Central,Technology,Accessories,1928.78,7,829.3754,0,43,2017-02-09,2017-07-09,2017,2
+CA-2017-137596,"Bill Eplett","Home Office",Central,"Office Supplies",Storage,352.38,2,81.0474,0,23,2017-02-09,2017-07-09,2017,2
+CA-2015-133627,"Sample Company A","Home Office",East,Furniture,Furnishings,22.2,6,9.102,0,41,2015-05-31,2015-07-06,2015,5
+CA-2017-102519,"Brian Moss",Corporate,Central,Furniture,Furnishings,46.94,1,19.2454,0,41,2017-11-27,2017-11-29,2017,11
+CA-2017-102519,"Brian Moss",Corporate,Central,Technology,Accessories,143.73,9,56.0547,0,39,2017-11-27,2017-11-29,2017,11
+US-2014-141215,"Kelly Lampkin",Corporate,Central,Furniture,Tables,99.918,2,-18.5562,0.3,-18.571428571428573,2014-06-15,2014-06-21,2014,6
+US-2014-141215,"Kelly Lampkin",Corporate,Central,Furniture,Chairs,797.944,4,-56.996,0.3,-7.142857142857144,2014-06-15,2014-06-21,2014,6
+CA-2016-165218,"Rob Williams",Corporate,Central,"Office Supplies",Envelopes,149.352,3,50.4063,0.2,33.75,2016-05-03,2016-11-03,2016,5
+CA-2016-165218,"Rob Williams",Corporate,Central,"Office Supplies",Storage,12.992,1,-0.812,0.2,-6.25,2016-05-03,2016-11-03,2016,5
+CA-2014-138296,"Roy Collins",Consumer,South,"Office Supplies",Storage,24.56,2,6.8768,0,28.000000000000004,2014-05-12,2014-12-12,2014,5
+CA-2015-111164,"Sanjit Engle",Consumer,East,Technology,Accessories,85.14,3,34.9074,0,41,2015-11-04,2015-04-15,2015,11
+CA-2015-111164,"Sanjit Engle",Consumer,East,Technology,Phones,21.99,1,10.5552,0,48,2015-11-04,2015-04-15,2015,11
+CA-2015-111164,"Sanjit Engle",Consumer,East,"Office Supplies",Appliances,406.6,5,113.848,0,27.999999999999996,2015-11-04,2015-04-15,2015,11
+CA-2016-149797,"Adam Hart",Corporate,East,"Office Supplies",Binders,841.568,2,294.5488,0.2,35,2016-09-15,2016-09-20,2016,9
+CA-2014-132962,"Jessica Myrick",Consumer,East,"Office Supplies",Paper,15.552,3,5.4432,0.2,35,2014-09-13,2014-09-16,2014,9
+CA-2014-132962,"Jessica Myrick",Consumer,East,Technology,Accessories,252,5,53.55,0.2,21.25,2014-09-13,2014-09-16,2014,9
+CA-2015-115091,"Joel Jenkins","Home Office",South,"Office Supplies",Art,46.2,4,12.936,0,27.999999999999996,2015-05-10,2015-09-10,2015,5
+CA-2015-115091,"Joel Jenkins","Home Office",South,"Office Supplies",Appliances,28.84,2,9.5172,0,33,2015-05-10,2015-09-10,2015,5
+CA-2017-144932,"Alan Barnes",Consumer,East,"Office Supplies",Art,14.592,3,2.5536,0.2,17.5,2017-04-14,2017-04-17,2017,4
+CA-2017-144932,"Alan Barnes",Consumer,East,"Office Supplies",Art,89.856,3,21.3408,0.2,23.750000000000004,2017-04-14,2017-04-17,2017,4
+CA-2017-144932,"Alan Barnes",Consumer,East,"Office Supplies",Paper,13.872,3,5.0286,0.2,36.25,2017-04-14,2017-04-17,2017,4
+CA-2016-140081,"Catherine Glotzbach","Home Office",East,"Office Supplies",Binders,29.718,6,-21.7932,0.7,-73.33333333333333,2016-06-20,2016-06-24,2016,6
+CA-2016-140081,"Catherine Glotzbach","Home Office",East,"Office Supplies",Paper,15.552,3,5.4432,0.2,35,2016-06-20,2016-06-24,2016,6
+CA-2016-140081,"Catherine Glotzbach","Home Office",East,"Office Supplies",Appliances,447.696,2,33.5772,0.2,7.5,2016-06-20,2016-06-24,2016,6
+US-2017-111745,"Ruben Ausman",Corporate,West,Technology,Accessories,159.99,1,54.3966,0,34,2017-05-11,2017-06-11,2017,5
+CA-2015-148250,"Rachel Payne",Corporate,West,"Office Supplies",Paper,12.96,2,6.2208,0,47.99999999999999,2015-12-13,2015-12-17,2015,12
+CA-2015-148250,"Rachel Payne",Corporate,West,"Office Supplies",Appliances,134.48,4,34.9648,0,26,2015-12-13,2015-12-17,2015,12
+CA-2016-142958,"Rob Williams",Corporate,West,Furniture,Tables,1114.272,4,41.7852,0.2,3.7500000000000004,2016-12-13,2016-12-20,2016,12
+CA-2015-120880,"John Lucas",Consumer,West,"Office Supplies",Paper,32.4,5,15.552,0,48,2015-05-29,2015-03-06,2015,5
+CA-2015-120880,"John Lucas",Consumer,West,"Office Supplies",Storage,540.57,3,140.5482,0,26,2015-05-29,2015-03-06,2015,5
+CA-2015-120880,"John Lucas",Consumer,West,"Office Supplies",Binders,167.76,5,62.91,0.2,37.5,2015-05-29,2015-03-06,2015,5
+US-2015-140200,"Cynthia Arntzen",Consumer,West,Furniture,Tables,393.165,3,-204.4458,0.5,-51.99999999999999,2015-07-26,2015-07-28,2015,7
+US-2017-110576,"Ross Baird","Home Office",East,Furniture,Furnishings,516.488,7,-12.9122,0.2,-2.5,2017-11-28,2017-02-12,2017,11
+US-2017-110576,"Ross Baird","Home Office",East,Furniture,Furnishings,1007.232,6,75.5424,0.2,7.5,2017-11-28,2017-02-12,2017,11
+US-2017-110576,"Ross Baird","Home Office",East,Furniture,Tables,2065.32,12,-619.596,0.4,-30,2017-11-28,2017-02-12,2017,11
+US-2017-110576,"Ross Baird","Home Office",East,"Office Supplies",Paper,15.552,3,5.4432,0.2,35,2017-11-28,2017-02-12,2017,11
+US-2017-110576,"Ross Baird","Home Office",East,"Office Supplies",Paper,25.344,6,7.92,0.2,31.25,2017-11-28,2017-02-12,2017,11
+CA-2017-131156,"Katherine Hughes",Consumer,East,Furniture,Furnishings,25.472,4,7.6416,0.2,30,2017-03-04,2017-07-04,2017,3
+CA-2017-136539,"Greg Hansen",Consumer,Central,"Office Supplies",Art,27.168,2,2.7168,0.2,10,2017-12-28,2018-01-01,2017,12
+CA-2017-136539,"Greg Hansen",Consumer,Central,Furniture,Bookcases,78.8528,2,-11.596,0.32,-14.705882352941178,2017-12-28,2018-01-01,2017,12
+CA-2017-119305,"Scott Williamson",Consumer,South,"Office Supplies",Storage,173.8,5,43.45,0,25,2017-11-30,2017-04-12,2017,11
+CA-2017-102414,"Joseph Airdo",Consumer,West,Technology,Phones,29.592,1,2.5893,0.2,8.75,2017-05-15,2017-05-18,2017,5
+CA-2017-102414,"Joseph Airdo",Consumer,West,"Office Supplies",Binders,4.752,2,-3.168,0.7,-66.66666666666667,2017-05-15,2017-05-18,2017,5
+CA-2015-112571,"Daniel Lacy",Consumer,West,Furniture,Furnishings,204.6,2,53.196,0,26,2015-09-22,2015-09-22,2015,9
+CA-2017-152142,"Lindsay Williams",Corporate,West,Furniture,Chairs,321.568,2,28.1372,0.2,8.75,2017-11-14,2017-11-19,2017,11
+CA-2015-160059,"Thomas Brumley","Home Office",South,"Office Supplies",Binders,6.24,2,3.0576,0,48.99999999999999,2015-11-27,2015-01-12,2015,11
+CA-2016-120859,"Cynthia Voltz",Corporate,West,"Office Supplies",Envelopes,21.88,2,10.94,0,50,2016-01-09,2016-04-09,2016,1
+CA-2014-127488,"Maribeth Schnelling",Consumer,South,"Office Supplies",Labels,4.608,2,1.6704,0.2,36.25000000000001,2014-09-22,2014-09-24,2014,9
+CA-2017-135279,"Bryan Spruell","Home Office",East,"Office Supplies",Labels,9.82,2,4.8118,0,49,2017-09-04,2017-11-04,2017,9
+CA-2017-135279,"Bryan Spruell","Home Office",East,"Office Supplies",Art,35.97,3,9.7119,0,27,2017-09-04,2017-11-04,2017,9
+CA-2017-135279,"Bryan Spruell","Home Office",East,"Office Supplies",Paper,12.96,2,6.2208,0,47.99999999999999,2017-09-04,2017-11-04,2017,9
+CA-2017-135279,"Bryan Spruell","Home Office",East,"Office Supplies",Paper,191.6,4,91.968,0,48.00000000000001,2017-09-04,2017-11-04,2017,9
+CA-2017-135279,"Bryan Spruell","Home Office",East,"Office Supplies",Labels,8.64,3,4.2336,0,49,2017-09-04,2017-11-04,2017,9
+CA-2017-135279,"Bryan Spruell","Home Office",East,"Office Supplies",Storage,501.81,3,0,0,0,2017-09-04,2017-11-04,2017,9
+CA-2014-115791,"Delfina Latchford",Consumer,East,Furniture,Furnishings,127.104,6,28.5984,0.2,22.5,2014-01-16,2014-01-18,2014,1
+CA-2014-115791,"Delfina Latchford",Consumer,East,Technology,Phones,124.2,3,-31.05,0.4,-25,2014-01-16,2014-01-18,2014,1
+CA-2014-115791,"Delfina Latchford",Consumer,East,"Office Supplies",Binders,18.588,2,-13.6312,0.7,-73.33333333333333,2014-01-16,2014-01-18,2014,1
+CA-2014-115791,"Delfina Latchford",Consumer,East,"Office Supplies",Labels,30.072,3,10.1493,0.2,33.75,2014-01-16,2014-01-18,2014,1
+US-2017-103247,"Phillina Ober","Home Office",East,Technology,Phones,160.93,7,3.2186,0,1.9999999999999998,2017-05-10,2017-08-10,2017,5
+US-2017-103247,"Phillina Ober","Home Office",East,"Office Supplies",Binders,75.792,3,25.5798,0.2,33.75,2017-05-10,2017-08-10,2017,5
+US-2017-100209,"Tamara Dahlen",Consumer,West,"Office Supplies",Binders,1.08,2,-0.792,0.7,-73.33333333333333,2017-09-07,2017-07-15,2017,9
+CA-2017-159366,"Bart Watters",Corporate,Central,Technology,Machines,3059.982,2,679.996,0.1,22.22222222222222,2017-07-01,2017-10-01,2017,7
+CA-2016-145499,"Robert Waldorf",Consumer,South,"Office Supplies",Binders,3.282,2,-2.6256,0.7,-80,2016-05-30,2016-05-31,2016,5
+CA-2015-157035,"Ken Brennan",Corporate,Central,"Office Supplies",Paper,34.02,3,16.6698,0,48.99999999999999,2015-09-12,2015-12-12,2015,9
+CA-2016-144939,"Emily Burns",Consumer,East,Furniture,Chairs,599.292,6,93.2232,0.1,15.555555555555555,2016-03-10,2016-08-10,2016,3
+CA-2014-163419,"Tracy Zic",Consumer,West,"Office Supplies",Art,3.392,1,0.8056,0.2,23.75,2014-11-11,2014-11-14,2014,11
+CA-2014-163419,"Tracy Zic",Consumer,West,Technology,Phones,559.984,2,55.9984,0.2,10,2014-11-11,2014-11-14,2014,11
+CA-2014-163419,"Tracy Zic",Consumer,West,Furniture,Chairs,603.92,5,75.49,0.2,12.5,2014-11-11,2014-11-14,2014,11
+CA-2017-100314,"Ann Steele","Home Office",Central,"Office Supplies",Labels,7.968,2,2.5896,0.2,32.5,2017-09-29,2017-05-10,2017,9
+CA-2017-100314,"Ann Steele","Home Office",Central,"Office Supplies",Envelopes,27.968,4,9.4392,0.2,33.75,2017-09-29,2017-05-10,2017,9
+CA-2017-100314,"Ann Steele","Home Office",Central,Technology,Machines,336.51,3,44.868,0.4,13.333333333333334,2017-09-29,2017-05-10,2017,9
+CA-2017-167899,"John Grady",Corporate,East,Furniture,Furnishings,520.05,5,72.807,0,14.000000000000002,2017-05-21,2017-05-26,2017,5
+CA-2017-167899,"John Grady",Corporate,East,"Office Supplies",Art,17.97,3,5.2113,0,28.999999999999996,2017-05-21,2017-05-26,2017,5
+CA-2015-153549,"Sara Luxemburg","Home Office",South,Furniture,Chairs,1166.92,5,131.2785,0.2,11.25,2015-03-29,2015-03-31,2015,3
+CA-2016-110023,"Troy Staebel",Consumer,East,"Office Supplies",Binders,14.624,2,5.484,0.2,37.5,2016-09-09,2016-11-09,2016,9
+CA-2016-105585,"Roland Fjeld",Consumer,West,"Office Supplies",Fasteners,10.23,3,4.9104,0,48,2016-08-26,2016-08-27,2016,8
+CA-2016-105585,"Roland Fjeld",Consumer,West,"Office Supplies",Paper,154.9,5,69.705,0,44.99999999999999,2016-08-26,2016-08-27,2016,8
+CA-2014-117639,"Mitch Willingham",Corporate,South,"Office Supplies",Binders,2715.93,7,1276.4871,0,47,2014-05-21,2014-05-25,2014,5
+CA-2014-117639,"Mitch Willingham",Corporate,South,Technology,Phones,617.97,3,173.0316,0,27.999999999999996,2014-05-21,2014-05-25,2014,5
+CA-2015-162537,"Rob Dowd",Consumer,South,"Office Supplies",Envelopes,10.67,1,4.9082,0,46,2015-10-28,2015-03-11,2015,10
+CA-2015-162537,"Rob Dowd",Consumer,South,"Office Supplies",Storage,36.63,3,9.8901,0,27,2015-10-28,2015-03-11,2015,10
+CA-2015-162537,"Rob Dowd",Consumer,South,Furniture,Furnishings,24.1,5,9.158,0,37.99999999999999,2015-10-28,2015-03-11,2015,10
+CA-2015-162537,"Rob Dowd",Consumer,South,Furniture,Furnishings,33.11,7,12.9129,0,39,2015-10-28,2015-03-11,2015,10
+CA-2016-155488,"Frank Merwin","Home Office",West,"Office Supplies",Art,44.02,2,11.4452,0,25.999999999999996,2016-11-13,2016-11-17,2016,11
+CA-2015-124891,"Rick Hansen",Consumer,East,Technology,Accessories,2309.65,7,762.1845,0,32.99999999999999,2015-07-31,2015-07-31,2015,7
+CA-2015-124891,"Rick Hansen",Consumer,East,Furniture,Tables,1090.782,7,-290.8752,0.4,-26.66666666666667,2015-07-31,2015-07-31,2015,7
+CA-2015-124891,"Rick Hansen",Consumer,East,"Office Supplies",Paper,19.44,3,9.3312,0,48.00000000000001,2015-07-31,2015-07-31,2015,7
+CA-2015-126445,"Ryan Akin",Consumer,West,"Office Supplies",Storage,484.65,3,92.0835,0,19,2015-08-27,2015-08-31,2015,8
+CA-2015-111199,"Joe Kamberova",Consumer,South,"Office Supplies",Paper,115.296,3,40.3536,0.2,35,2015-11-13,2015-11-17,2015,11
+CA-2015-105312,"Meg Tillman",Consumer,West,"Office Supplies",Envelopes,7.08,3,2.478,0.2,35,2015-06-11,2015-09-11,2015,6
+CA-2015-105312,"Meg Tillman",Consumer,West,"Office Supplies",Binders,4.401,3,-3.5208,0.7,-80,2015-06-11,2015-09-11,2015,6
+CA-2017-135034,"Annie Thurman",Consumer,Central,Technology,Phones,95.984,2,5.999,0.2,6.25,2017-01-08,2017-03-08,2017,1
+CA-2017-118437,"Philip Fox",Consumer,West,Furniture,Furnishings,155.25,3,46.575,0,30.000000000000004,2017-06-17,2017-06-21,2017,6
+CA-2017-118437,"Philip Fox",Consumer,West,"Office Supplies",Storage,14.03,1,4.0687,0,28.999999999999996,2017-06-17,2017-06-21,2017,6
+US-2015-126214,"John Stevenson",Consumer,West,Furniture,Tables,1618.37,13,356.0414,0,22.000000000000004,2015-12-21,2015-12-24,2015,12
+US-2015-126214,"John Stevenson",Consumer,West,Technology,Accessories,99.6,1,36.852,0,37,2015-12-21,2015-12-24,2015,12
+CA-2015-133025,"Meg O'Connel","Home Office",West,"Office Supplies",Paper,32.4,5,15.552,0,48,2015-09-17,2015-09-19,2015,9
+CA-2015-108665,"Kalyca Meade",Corporate,East,Furniture,Furnishings,13.96,2,6.7008,0,48,2015-06-07,2015-10-07,2015,6
+CA-2015-108665,"Kalyca Meade",Corporate,East,Furniture,Furnishings,155.82,3,63.8862,0,41,2015-06-07,2015-10-07,2015,6
+CA-2015-108665,"Kalyca Meade",Corporate,East,Technology,Phones,124.95,5,2.499,0,2,2015-06-07,2015-10-07,2015,6
+CA-2015-108665,"Kalyca Meade",Corporate,East,"Office Supplies",Storage,601.65,5,156.429,0,26,2015-06-07,2015-10-07,2015,6
+CA-2015-124450,"Greg Tran",Consumer,East,"Office Supplies",Art,22.74,3,8.8686,0,39.00000000000001,2015-04-27,2015-03-05,2015,4
+CA-2015-124450,"Greg Tran",Consumer,East,Furniture,Chairs,1267.53,3,316.8825,0,25,2015-04-27,2015-03-05,2015,4
+CA-2015-124450,"Greg Tran",Consumer,East,Technology,Machines,1379.92,8,648.5624,0,47,2015-04-27,2015-03-05,2015,4
+CA-2015-167269,"Philip Brown",Consumer,East,"Office Supplies",Envelopes,6.208,2,2.1728,0.2,35,2015-06-16,2015-06-20,2015,6
+CA-2017-106964,"Hallie Redmond","Home Office",West,"Office Supplies",Binders,11.808,2,4.2804,0.2,36.25000000000001,2017-12-17,2017-12-20,2017,12
+CA-2016-126529,"Deanra Eno","Home Office",East,"Office Supplies",Paper,15.552,3,5.4432,0.2,35,2016-11-01,2016-01-13,2016,11
+CA-2016-126529,"Deanra Eno","Home Office",East,"Office Supplies",Paper,63.312,3,20.5764,0.2,32.5,2016-11-01,2016-01-13,2016,11
+CA-2016-126529,"Deanra Eno","Home Office",East,Technology,Phones,15.588,2,-9.8724,0.4,-63.33333333333334,2016-11-01,2016-01-13,2016,11
+CA-2014-163552,"Laura Armstrong",Corporate,East,"Office Supplies",Paper,177.2,5,83.284,0,47.00000000000001,2014-11-07,2014-07-15,2014,11
+CA-2014-163552,"Laura Armstrong",Corporate,East,Technology,Phones,197.97,3,57.4113,0,28.999999999999996,2014-11-07,2014-07-15,2014,11
+CA-2014-163552,"Laura Armstrong",Corporate,East,Furniture,Chairs,854.94,3,213.735,0,25,2014-11-07,2014-07-15,2014,11
+CA-2014-163552,"Laura Armstrong",Corporate,East,Furniture,Furnishings,124.11,9,52.1262,0,42,2014-11-07,2014-07-15,2014,11
+CA-2014-163552,"Laura Armstrong",Corporate,East,"Office Supplies",Labels,14.4,5,7.056,0,49,2014-11-07,2014-07-15,2014,11
+CA-2016-109820,"Allen Goldenen",Consumer,East,"Office Supplies",Paper,15.696,3,5.1012,0.2,32.5,2016-11-20,2016-11-22,2016,11
+CA-2016-109820,"Allen Goldenen",Consumer,East,"Office Supplies",Binders,2.628,2,-1.9272,0.7,-73.33333333333333,2016-11-20,2016-11-22,2016,11
+CA-2016-109820,"Allen Goldenen",Consumer,East,"Office Supplies",Binders,14.427,3,-10.5798,0.7,-73.33333333333334,2016-11-20,2016-11-22,2016,11
+CA-2016-113061,"Ed Ludwig","Home Office",Central,Furniture,Furnishings,86.62,2,8.662,0,10,2016-04-22,2016-04-26,2016,4
+CA-2015-127418,"Jennifer Jackson",Consumer,West,"Office Supplies",Binders,36.624,3,13.734,0.2,37.5,2015-06-13,2015-06-14,2015,6
+CA-2017-121818,"Jennifer Halladay",Consumer,South,"Office Supplies",Art,23.968,7,2.6964,0.2,11.25,2017-11-20,2017-11-21,2017,11
+CA-2017-121818,"Jennifer Halladay",Consumer,South,"Office Supplies",Art,28.728,3,1.7955,0.2,6.25,2017-11-20,2017-11-21,2017,11
+CA-2016-127670,"Robert Dilbeck","Home Office",Central,Furniture,Tables,697.16,4,146.4036,0,21.000000000000004,2016-03-20,2016-03-24,2016,3
+CA-2016-102981,"Mary O'Rourke",Consumer,East,Technology,Accessories,31.86,2,11.151,0,35,2016-06-09,2016-09-09,2016,6
+CA-2016-102981,"Mary O'Rourke",Consumer,East,Furniture,Bookcases,722.352,3,90.294,0.2,12.5,2016-06-09,2016-09-09,2016,6
+CA-2017-115651,"Noel Staavos",Corporate,Central,"Office Supplies",Art,8.84,5,2.9835,0.2,33.75,2017-09-07,2017-12-07,2017,9
+CA-2017-152702,"Steve Nguyen","Home Office",Central,Furniture,Chairs,254.604,14,-18.186,0.3,-7.142857142857142,2017-12-10,2017-10-16,2017,12
+CA-2016-169103,"Zuschuss Carroll",Consumer,South,Technology,Phones,1363.96,5,85.2475,0.2,6.25,2016-08-03,2016-03-13,2016,8
+CA-2016-169103,"Zuschuss Carroll",Consumer,South,Furniture,Furnishings,102.36,3,-3.8385,0.2,-3.75,2016-08-03,2016-03-13,2016,8
+CA-2014-139192,"Lena Creighton",Consumer,West,Technology,Phones,1113.504,12,125.2692,0.2,11.25,2014-05-27,2014-01-06,2014,5
+CA-2014-139192,"Lena Creighton",Consumer,West,Technology,Accessories,99.99,1,37.9962,0,38.00000000000001,2014-05-27,2014-01-06,2014,5
+US-2015-153500,"Deirdre Greer",Corporate,East,Furniture,Furnishings,168.464,2,-29.4812,0.2,-17.5,2015-03-07,2015-05-07,2015,3
+US-2015-153500,"Deirdre Greer",Corporate,East,"Office Supplies",Paper,6.72,2,2.436,0.2,36.25,2015-03-07,2015-05-07,2015,3
+US-2015-153500,"Deirdre Greer",Corporate,East,Furniture,Furnishings,282.888,9,56.5776,0.2,20,2015-03-07,2015-05-07,2015,3
+CA-2015-110667,"Nicole Fjeld","Home Office",East,"Office Supplies",Art,11.16,2,4.3524,0,39,2015-04-04,2015-08-04,2015,4
+CA-2015-110667,"Nicole Fjeld","Home Office",East,Furniture,Furnishings,108.4,2,22.764,0,21,2015-04-04,2015-08-04,2015,4
+CA-2015-110667,"Nicole Fjeld","Home Office",East,"Office Supplies",Binders,82.344,3,27.7911,0.2,33.75,2015-04-04,2015-08-04,2015,4
+CA-2015-110667,"Nicole Fjeld","Home Office",East,"Office Supplies",Binders,9.088,4,3.2944,0.2,36.25000000000001,2015-04-04,2015-08-04,2015,4
+CA-2017-167150,"Ben Peterman",Corporate,West,"Office Supplies",Binders,19.936,4,7.2268,0.2,36.25,2017-10-12,2017-12-17,2017,10
+CA-2016-105284,"Matthew Grinstein","Home Office",East,"Office Supplies",Fasteners,4.416,3,1.6008,0.2,36.25,2016-11-24,2016-01-12,2016,11
+US-2015-125374,"Julia Dunbar",Consumer,Central,Furniture,Chairs,107.772,2,-29.2524,0.3,-27.142857142857142,2015-03-23,2015-03-29,2015,3
